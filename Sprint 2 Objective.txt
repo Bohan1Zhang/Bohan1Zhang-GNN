@@ -1,0 +1,38 @@
+												GitHub contributions to Sprint 2
+Status：
+
+
+-What is completed
+1.Environment Setup(Install key libraries like PyTorch, Matplotlib or Seaborn for initial data visualization.)
+
+2.Data Collection
+	We got a data table from the website：   https://eerscmap.usgs.gov/uspvdb/viewer/#4.82/37.17/-115.77 
+  	That includes some basic information about the current photovoltaic power stations in the United States. 
+
+The data includes following label of every station： 
+Project ID 
+Project Name 
+Year Online 
+Rated Capacity (AC) 
+Rated Capacity (DC) 
+Area (m²) 
+Area (acres) 
+Digitization Source Timestamp 
+Polygon Type 
+Axis Type 
+Site Type 
+Agrivoltaic 
+Confidence 
+Area Z-score 
+Latitude (project center) 
+Longitude (project center) 
+
+-What is not completed：
+We haven't completed the data visualization yet because we realized that it is not very important for the data analysis at this stage
+
+
+Challenges：
+Plan for Sprint 3
+The goal for Sprint 3 is to split the data into training and test sets. The next step involves integrating the current data into the Graph Neural Network (GNN) model. Once the data is fed into the model, we will
+ adjust the weights of individual data points to optimize performance. The primary focus will be on improving the accuracy of predictions in the test set based on the outcomes from the training set. Fine-tuning
+ the model’s parameters will be key to achieving better overall performance.
