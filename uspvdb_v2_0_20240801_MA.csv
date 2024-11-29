@@ -1,0 +1,398 @@
+﻿case_id,multi_poly,eia_id,p_state,p_county,ylat,xlong,p_area,p_img_date,p_dig_conf,p_name,p_year,p_pwr_reg,p_tech_pri,p_tech_sec,p_axis,p_azimuth,p_tilt,p_battery,p_cap_ac,p_cap_dc,p_type,p_agrivolt,p_zscore,2022GDP,Total Energy of MA,Total Energy of Renewable
+402005,multi,60866,MA,Essex,42.792026,-70.885639,29295,20210519,4,"Bashaw Solar (CSG) 1, LLC",2017,ISNE,PV,c-si,fixed-tilt,180,20,,2,2.4,greenfield,non-agrivoltaic,0.256891,47094918,1315.2,75.1
+402102,single,61017,MA,Worcester,42.227856,-71.873242,41313,20220918,4,Stafford St 2 Community Solar,2018,ISNE,PV,c-si,fixed-tilt,180,25,,1.9,2.8,greenfield,non-agrivoltaic,-0.042897,46308136,1315.2,75.1
+402103,single,61018,MA,Worcester,42.227163,-71.869517,9499,20220311,4,Stafford St Solar 3 (CSG),2017,ISNE,PV,c-si,fixed-tilt,180,25,,1,6.9,greenfield,non-agrivoltaic,13.910724,46308136,1315.2,75.1
+401488,multi,60074,MA,Berkshire,42.669163,-73.092342,43540,20211217,4,North Adams Landfill,2015,ISNE,PV,c-si,fixed-tilt,180,20,,2.2,3.5,landfill,non-agrivoltaic,0.22428,6927750,1315.2,75.1
+402126,multi,61069,MA,Worcester,42.087281,-71.517747,55579,20220402,4,"BWC Wading River One, Two, Three (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,20,,3,4.1,greenfield,non-agrivoltaic,0.084083,46308136,1315.2,75.1
+402260,single,61308,MA,Worcester,42.136187,-72.02101,39799,20220311,4,Sampson Road Community Solar,2017,ISNE,PV,c-si,fixed-tilt,185,26,,2,2.6,greenfield,non-agrivoltaic,-0.094747,46308136,1315.2,75.1
+402440,single,61555,MA,Plymouth,41.67106,-70.832153,62419,20220904,4,DG Crystal Spring (CSG),2017,ISNE,PV,c-si,fixed-tilt,180,20,,4.2,5.3,greenfield,non-agrivoltaic,0.320134,26619904,1315.2,75.1
+402466,single,61590,MA,Norfolk,42.056811,-71.239044,31522,20220918,4,DG Foxborough Elm (CSG),2017,ISNE,PV,c-si,fixed-tilt,180,23,,2,2.6,greenfield,non-agrivoltaic,0.268666,57045702,1315.2,75.1
+402800,multi,62066,MA,Hampshire,42.189515,-72.715212,23803,20210519,4,Southampton Solar PV,2019,ISNE,PV,c-si,fixed-tilt,180,10,,2,2.8,greenfield,non-agrivoltaic,1.013395,7702689,1315.2,75.1
+402801,single,62072,MA,Hampden,42.132246,-72.5542,48966,20220901,4,Springfield Solar PV,2019,ISNE,PV,c-si,fixed-tilt,180,10,,4,5.6,greenfield,non-agrivoltaic,0.944165,23213480,1315.2,75.1
+402802,multi,62073,MA,Hampden,42.044237,-72.458865,77583,20211215,4,Hampden Solar PV,2019,ISNE,PV,c-si,fixed-tilt,180,20,,3.5,4.8,greenfield,non-agrivoltaic,-0.168028,23213480,1315.2,75.1
+402814,single,62090,MA,Franklin,42.42913,-72.539954,15018,20220901,4,Sunderland Solar PV,2018,ISNE,PV,c-si,fixed-tilt,180,20,,1.1,1.4,greenfield,non-agrivoltaic,0.496165,2835214,1315.2,75.1
+402816,multi,62092,MA,Franklin,42.582156,-72.517395,60455,20220703,4,Montague Site 36-Grosolar,2018,ISNE,PV,c-si,fixed-tilt,225,35,,4.1,5,greenfield,non-agrivoltaic,0.273421,2835214,1315.2,75.1
+402820,single,62097,MA,Hampden,42.164509,-72.446239,23823,20220901,4,Ludlow Site 72-Conti,2018,ISNE,PV,c-si,fixed-tilt,180,20,,1.9,2.1,greenfield,non-agrivoltaic,0.388766,23213480,1315.2,75.1
+402842,single,62135,MA,Hampden,42.202317,-72.313415,54426,20220131,4,Palmer,2019,ISNE,PV,c-si,fixed-tilt,180,25,,3.5,4.9,greenfield,non-agrivoltaic,0.428602,23213480,1315.2,75.1
+402883,multi,62199,MA,Worcester,42.631275,-71.797967,29547,20210629,4,"Ashby Solar, LLC (CSG)",2018,ISNE,PV,c-si,fixed-tilt,186,25,,1.8,2.3,greenfield,non-agrivoltaic,0.170372,46308136,1315.2,75.1
+402885,multi,62201,MA,Worcester,42.057622,-71.925681,25322,20210727,4,Dudley Solar (CSG),2017,ISNE,PV,c-si,fixed-tilt,182,20,,1.9,2.4,greenfield,non-agrivoltaic,0.529237,46308136,1315.2,75.1
+402917,single,62264,MA,Berkshire,42.489848,-73.218204,13805,20201105,4,Pittsfield 44-M&W PV,2018,ISNE,PV,c-si,fixed-tilt,180,20,,1.2,1.4,greenfield,non-agrivoltaic,0.669742,6927750,1315.2,75.1
+403034,multi,62503,MA,Worcester,42.689896,-72.085621,33032,20210815,4,Winchendon Landfill Solar,2018,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.7,landfill-named,non-agrivoltaic,0.252922,46308136,1315.2,75.1
+403062,single,62550,MA,Berkshire,42.192559,-73.407894,31769,20210313,4,Kearsarge GB,2018,ISNE,PV,c-si,fixed-tilt,180,25,,1.9,2.7,greenfield,non-agrivoltaic,0.321808,6927750,1315.2,75.1
+403064,single,62552,MA,Worcester,42.103597,-71.597693,33298,20220402,4,Kearsarge Uxbridge,2018,ISNE,PV,c-si,fixed-tilt,180,22,,1.9,2.7,greenfield,non-agrivoltaic,0.23913,46308136,1315.2,75.1
+403066,single,62557,MA,Franklin,42.586248,-72.563448,55198,20220703,4,Kearsarge Montague,2018,ISNE,PV,c-si,fixed-tilt,180,25,,4,6,landfill,non-agrivoltaic,0.824136,2835214,1315.2,75.1
+403074,multi,62579,MA,Hampshire,42.51962,-72.919345,35352,20201022,4,"Plainfield Community Solar, LLC",2019,ISNE,PV,c-si,single-axis,180,0,batteries,2,2.7,greenfield,non-agrivoltaic,0.139314,7702689,1315.2,75.1
+403076,single,62581,MA,Hampden,42.083803,-73.062939,106993,20210519,4,"Tolland Solar NG, LLC",2014,ISNE,PV,c-si,fixed-tilt,180,20,,3.5,4,greenfield,non-agrivoltaic,-0.686745,23213480,1315.2,75.1
+403078,multi,62583,MA,Berkshire,42.251453,-73.106816,84362,20211217,4,"Tanglewood Circle Solar 1, LLC",2018,ISNE,PV,c-si,fixed-tilt,177,20,,5,6,greenfield,non-agrivoltaic,0.028017,6927750,1315.2,75.1
+403114,multi,62646,MA,Bristol,41.777245,-70.964968,35896,20210921,4,Washburn Road Solar,2019,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.8,greenfield,non-agrivoltaic,0.17379,27281600,1315.2,75.1
+403150,single,62695,MA,Hampshire,42.306058,-72.7031,75297,20220703,4,"CED Northampton Solar, LLC Hybrid",2019,ISNE,PV,c-si,fixed-tilt,180,25,batteries,4.3,5.6,greenfield,non-agrivoltaic,0.096859,7702689,1315.2,75.1
+403180,multi,62760,MA,Middlesex,42.204281,-71.529393,31562,20220628,4,Hopkinton (CSG),2019,ISNE,PV,c-si,fixed-tilt,180,30,,2,2.8,greenfield,non-agrivoltaic,0.400756,190978324,1315.2,75.1
+403182,single,62763,MA,Plymouth,41.904939,-70.810968,36230,20221027,4,Carver (CSG),2019,ISNE,PV,c-si,fixed-tilt,180,20,,2,2.7,greenfield,non-agrivoltaic,0.100099,26619904,1315.2,75.1
+403221,multi,62826,MA,Bristol,41.926708,-71.065129,35192,20221010,4,"GSPP Raynham TMLP, LLC (CSG)",2019,ISNE,PV,c-si,fixed-tilt,180,30,,2.3,2.9,landfill,non-agrivoltaic,0.267052,27281600,1315.2,75.1
+403254,multi,62890,MA,Middlesex,42.473211,-71.550737,63851,20220510,4,GSPP Boxborough Littleton (MA),2019,ISNE,PV,c-si,fixed-tilt,181,30,,4,5,greenfield,non-agrivoltaic,0.180242,190978324,1315.2,75.1
+403265,single,62911,MA,Franklin,42.671,-72.477274,40029,20220703,4,Kearsarge Gill,2018,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.7,greenfield,"grazing,es",-0.049772,2835214,1315.2,75.1
+403475,single,63214,MA,Essex,42.582488,-70.996756,67682,20220704,4,Middleton Solar Park,2018,ISNE,PV,c-si,fixed-tilt,180,20,batteries,5,6,greenfield,non-agrivoltaic,0.399375,47094918,1315.2,75.1
+403610,multi,63398,MA,Essex,42.837222,-70.939104,44388,20220704,4,Kearsarge Amesbury Hybrid,2019,ISNE,PV,c-si,fixed-tilt,180,15,batteries,3.3,4.5,landfill,non-agrivoltaic,0.669046,47094918,1315.2,75.1
+403667,single,63468,MA,Worcester,42.025466,-71.592682,32030,20220625,4,Hurteau Solar Project Hybrid,2020,ISNE,PV,c-si,fixed-tilt,180,20,batteries,2,2.8,greenfield,non-agrivoltaic,0.373252,46308136,1315.2,75.1
+403719,single,63555,MA,Worcester,42.142722,-71.972115,16689,20220311,4,"St. Joseph's Solar, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,1,1.4,greenfield,non-agrivoltaic,0.298455,46308136,1315.2,75.1
+403720,multi,63556,MA,Worcester,42.216207,-71.889986,75084,20220311,4,"Boutillier Solar, LLC (CSG)",2018,ISNE,PV,c-si,fixed-tilt,180,,,2.9,4,greenfield,non-agrivoltaic,-0.350139,46308136,1315.2,75.1
+403722,single,63558,MA,Worcester,42.569575,-72.161858,16870,20221018,4,"Barton Acres Solar, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,1,1.4,greenfield,non-agrivoltaic,0.279397,46308136,1315.2,75.1
+403723,single,63561,MA,Worcester,42.229532,-71.8916,18281,20220918,4,"Cherry Valley Solar, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,1,1.4,greenfield,non-agrivoltaic,0.143718,46308136,1315.2,75.1
+403724,single,63562,MA,Bristol,41.8173,-71.170977,39079,20220620,4,"ISM Solar Dighton 2, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,2,2.9,greenfield,non-agrivoltaic,0.093412,27281600,1315.2,75.1
+403725,single,63563,MA,Worcester,42.106715,-72.018748,46604,20220311,4,"Incom Solar, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,2,3,greenfield,non-agrivoltaic,-0.115008,46308136,1315.2,75.1
+403726,single,63564,MA,Worcester,42.243837,-72.100593,15716,20201008,4,"JH Solar, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,1,1.3,greenfield,non-agrivoltaic,0.273736,46308136,1315.2,75.1
+403729,single,63569,MA,Worcester,42.071395,-71.998444,15858,20211011,4,"Dudley River 3 Solar, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,1,1.3,greenfield,non-agrivoltaic,0.257999,46308136,1315.2,75.1
+403730,single,63570,MA,Worcester,42.072592,-71.99696,17987,20211011,4,"Dudley River 2 Solar, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,1,1.3,greenfield,non-agrivoltaic,0.052458,46308136,1315.2,75.1
+403731,single,63571,MA,Worcester,42.071614,-72.000321,18658,20211011,4,"Dudley River Solar, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,1,1.4,greenfield,non-agrivoltaic,0.110925,46308136,1315.2,75.1
+403732,single,63572,MA,Worcester,42.241583,-72.1044,13234,20211124,4,"Ledeaux Solar, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,1,1.2,greenfield,non-agrivoltaic,0.44222,46308136,1315.2,75.1
+403733,single,63573,MA,Worcester,42.056264,-72.045059,17585,20211011,4,"Cohasse Solar, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,1,1.2,greenfield,non-agrivoltaic,-0.03306,46308136,1315.2,75.1
+403741,multi,63588,MA,Worcester,42.027187,-71.598034,34105,20220625,4,"Palombo Solar, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,2,2.7,greenfield,non-agrivoltaic,0.198469,46308136,1315.2,75.1
+403742,single,63589,MA,Worcester,42.027851,-71.595719,14903,20220625,4,"Palombo B Solar, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,1,1.4,greenfield,non-agrivoltaic,0.511458,46308136,1315.2,75.1
+403765,single,63659,MA,Hampden,42.109038,-72.338178,33708,20221018,4,"Bowden Solar, LLC",2019,ISNE,PV,c-si,fixed-tilt,180,,,2,2.8,greenfield,non-agrivoltaic,0.281046,23213480,1315.2,75.1
+401964,multi,60815,MA,Hampshire,42.320979,-72.530967,26574,20220703,4,Hampshire College Hybrid,2017,ISNE,PV,c-si,fixed-tilt,180,20,batteries,3.4,4.6,greenfield,non-agrivoltaic,2.188536,7702689,1315.2,75.1
+402886,single,62202,MA,Hampshire,42.427017,-72.76872,80840,20201022,4,Williamsburg,2019,ISNE,PV,c-si,fixed-tilt,180,25,,4,6,greenfield,non-agrivoltaic,0.093663,7702689,1315.2,75.1
+402253,single,61294,MA,Worcester,42.033362,-71.93714,15615,20220311,4,Farley Road Community Solar,2017,ISNE,PV,c-si,fixed-tilt,180,25,,1.9,2.4,greenfield,non-agrivoltaic,1.777508,46308136,1315.2,75.1
+400974,single,59241,MA,Worcester,42.482216,-71.717233,70707,20220918,4,Brockelman,2013,ISNE,PV,c-si,fixed-tilt,180,25,,3,4,greenfield,non-agrivoltaic,-0.280258,46308136,1315.2,75.1
+400644,single,58624,MA,Berkshire,42.114651,-73.405093,34635,20200308,4,Berkshire 1,2011,ISNE,PV,c-si,single-axis,178,0,,1.8,2,greenfield,non-agrivoltaic,-0.255408,6927750,1315.2,75.1
+401037,single,59390,MA,Essex,42.847523,-70.896196,60125,20220704,4,True North,2012,ISNE,PV,c-si,fixed-tilt,180,30,,4.8,5.7,greenfield,non-agrivoltaic,0.529707,47094918,1315.2,75.1
+400333,single,57934,MA,Worcester,42.058493,-71.731161,39302,20210607,4,Douglas Solar,2012,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.5,greenfield,non-agrivoltaic,-0.131148,46308136,1315.2,75.1
+400851,single,59032,MA,Middlesex,42.570131,-71.624939,44997,20220510,4,EBZ Solar,2013,ISNE,PV,c-si,fixed-tilt,180,32,,2.5,3,greenfield,non-agrivoltaic,-0.066281,190978324,1315.2,75.1
+400915,single,59134,MA,Bristol,42.012141,-71.093195,32639,20220625,4,Easton Landfill,2013,ISNE,PV,c-si,fixed-tilt,180,20,,1.9,1.9,landfill,non-agrivoltaic,-0.245512,27281600,1315.2,75.1
+400368,single,58032,MA,Bristol,41.854098,-71.065357,44172,20210921,4,Padelford Solar,2012,ISNE,PV,c-si,fixed-tilt,180,25,,2.2,2.9,greenfield,non-agrivoltaic,-0.087872,27281600,1315.2,75.1
+400498,single,58362,MA,Plymouth,41.782023,-70.913613,75925,20220116,4,Quittacas Pond Solar,2013,ISNE,PV,c-si,fixed-tilt,180,30,,3.5,4.2,greenfield,non-agrivoltaic,-0.306829,26619904,1315.2,75.1
+401081,single,59465,MA,Bristol,41.654973,-70.956634,30271,20220904,4,Sullivan Solar,2014,ISNE,PV,c-si,fixed-tilt,180,17,,1.5,2,superfund,non-agrivoltaic,-0.079015,27281600,1315.2,75.1
+401287,multi,59767,MA,Hampden,42.312381,-72.951272,82071,20211124,4,Chester Solar Farm,2014,ISNE,PV,c-si,fixed-tilt,180,20,,4.8,6,greenfield,non-agrivoltaic,0.070071,23213480,1315.2,75.1
+400111,single,57269,MA,Essex,42.780917,-71.092716,16003,20220509,4,Haverhill Solar Power Project,2010,ISNE,PV,c-si,fixed-tilt,160,20,,0.8,1,PCSC,non-agrivoltaic,-0.154917,47094918,1315.2,75.1
+400662,single,58650,MA,Worcester,42.278006,-72.052033,47835,20210815,4,North Brookfield,2014,ISNE,PV,c-si,fixed-tilt,180,25,,3,3.6,greenfield,non-agrivoltaic,0.115637,46308136,1315.2,75.1
+400869,single,59077,MA,Barnstable,41.687145,-70.010469,28469,20220917,4,Chatham Landfill,2014,ISNE,PV,c-si,fixed-tilt,180,25,,1.5,1.8,landfill,non-agrivoltaic,-0.139251,13771725,1315.2,75.1
+401080,multi,59464,MA,Hampden,42.126297,-72.332031,45653,20220901,4,Monson Solar,2014,ISNE,PV,c-si,fixed-tilt,180,20,,3,3.6,greenfield,non-agrivoltaic,0.191866,23213480,1315.2,75.1
+400508,single,58385,MA,Worcester,42.164629,-71.644959,46438,20211024,4,Northbridge Solar,2013,ISNE,PV,c-si,fixed-tilt,180,25,,1.9,2.5,greenfield,non-agrivoltaic,-0.338232,46308136,1315.2,75.1
+400921,single,59140,MA,Worcester,42.524398,-71.664502,74743,20220520,4,EDF Lancaster,2014,ISNE,PV,c-si,fixed-tilt,183,22,,4.5,5.9,greenfield,non-agrivoltaic,0.193582,46308136,1315.2,75.1
+400847,single,59028,MA,Hampden,42.082664,-72.613846,27190,20210514,4,Agawam Solar,2012,ISNE,PV,c-si,fixed-tilt,180,32,,1.5,1.8,landfill,es,-0.076254,23213480,1315.2,75.1
+401292,single,59775,MA,Worcester,42.595175,-72.202064,67031,20210309,4,Adams Farm Solar,2013,ISNE,PV,c-si,fixed-tilt,180,25,,3,3.5,greenfield,non-agrivoltaic,-0.372573,46308136,1315.2,75.1
+401277,multi,59750,MA,Middlesex,42.172705,-71.452881,63522,20220402,4,Bourne (MA)-Holliston I,2014,ISNE,PV,c-si,fixed-tilt,180,20,,2.4,2.9,greenfield,non-agrivoltaic,-0.511573,190978324,1315.2,75.1
+401272,single,59745,MA,Essex,42.607843,-71.174519,50657,20220723,4,Leominster (MA)-South Street-R&D,2013,ISNE,PV,c-si,fixed-tilt,180,25,,2.6,3.5,greenfield,non-agrivoltaic,-0.015006,47094918,1315.2,75.1
+401024,single,59368,MA,Worcester,42.262028,-71.60489,29822,20220108,4,"Westborough Solar, LLC",2014,ISNE,PV,c-si,fixed-tilt,180,10,,2.2,2.1,greenfield,non-agrivoltaic,0.013074,46308136,1315.2,75.1
+400521,single,58412,MA,Middlesex,42.428763,-71.434674,21749,20211214,4,Maynard PV,2014,ISNE,PV,c-si,fixed-tilt,180,30,,1,1.2,landfill,non-agrivoltaic,-0.309853,190978324,1315.2,75.1
+401288,single,59768,MA,Middlesex,42.4451,-71.333297,21002,20220421,4,Concord Solar Farm,2014,ISNE,PV,c-si,fixed-tilt,180,15,,1.5,1.7,landfill,non-agrivoltaic,0.236149,190978324,1315.2,75.1
+401079,single,59463,MA,Essex,42.793245,-71.178966,39711,20220918,4,Ayers Village Solar,2014,ISNE,PV,c-si,fixed-tilt,180,23,,2,2.4,greenfield,non-agrivoltaic,-0.198373,47094918,1315.2,75.1
+400949,single,59178,MA,Norfolk,42.044794,-71.394998,55322,20220918,4,Franklin 1,2013,ISNE,PV,c-si,fixed-tilt,180,25,,3,3.6,greenfield,non-agrivoltaic,-0.100134,57045702,1315.2,75.1
+401418,single,59980,MA,Barnstable,41.629789,-70.478025,28365,20220620,4,Mashpee Landfill Solar,2014,ISNE,PV,c-si,fixed-tilt,180,20,,1.5,1.8,landfill,non-agrivoltaic,-0.13434,13771725,1315.2,75.1
+400975,single,59242,MA,Essex,42.589521,-70.90934,32581,20220704,4,Beverly,2014,ISNE,PV,c-si,fixed-tilt,180,20,,2,2.7,greenfield,non-agrivoltaic,0.276899,47094918,1315.2,75.1
+400809,single,58936,MA,Norfolk,42.116738,-71.266581,43450,20220918,4,Walpole Solar 2,2014,ISNE,PV,c-si,fixed-tilt,180,25,,2.4,2.9,greenfield,non-agrivoltaic,-0.064772,57045702,1315.2,75.1
+400331,multi,57931,MA,Hampden,42.189846,-72.684276,56525,20210221,4,Holyoke Solar Cooperative at Mueller,2011,ISNE,PV,c-si,fixed-tilt,177,15,,2.7,3.5,greenfield,non-agrivoltaic,-0.16696,23213480,1315.2,75.1
+400687,multi,58702,MA,Franklin,42.572753,-72.614004,40875,20220703,4,"Axio Green, LLC",2012,ISNE,PV,c-si,fixed-tilt,180,20,,2,2,landfill,non-agrivoltaic,-0.442166,2835214,1315.2,75.1
+401098,single,59485,MA,Worcester,42.582429,-71.760425,17826,20220510,4,"265 Pleasant Solar NG, LLC",2014,ISNE,PV,c-si,fixed-tilt,180,25,,1.9,1.1,greenfield,non-agrivoltaic,-0.171441,46308136,1315.2,75.1
+400110,multi,57265,MA,Suffolk,42.301958,-71.046652,17758,20220509,4,Dorchester Solar Site,2012,ISNE,PV,c-si,fixed-tilt,180,20,,1.3,1.3,PCSC,non-agrivoltaic,0.072205,151982653,1315.2,75.1
+400174,single,57473,MA,Bristol,41.715971,-70.974491,29595,20210921,4,Dartmouth Solar,2011,ISNE,PV,c-si,fixed-tilt,180,25,,1.6,2,greenfield,non-agrivoltaic,-0.047065,27281600,1315.2,75.1
+400449,multi,58283,MA,Bristol,41.768254,-70.987635,157307,20220630,4,Freetown Solar,2015,ISNE,PV,c-si,fixed-tilt,180,25,,4.5,5.8,greenfield,non-agrivoltaic,-0.697657,27281600,1315.2,75.1
+400874,single,59082,MA,Barnstable,41.694466,-70.144091,110733,20220110,4,Dennis Landfill,2014,ISNE,PV,c-si,fixed-tilt,180,25,,5,5.9,landfill,non-agrivoltaic,-0.349972,13771725,1315.2,75.1
+400871,single,59079,MA,Dukes,41.360961,-70.521063,17472,20220126,1,Katama Farm,2014,ISNE,PV,c-si,fixed-tilt,180,25,,1,1.3,greenfield,non-agrivoltaic,0.097541,1453100,1315.2,75.1
+400237,multi,57674,MA,Hampden,42.151878,-72.499042,39088,20220703,4,Indian Orchard PV Facility,2011,ISNE,PV,c-si,fixed-tilt,180,20,,2.3,2.3,PCSC,non-agrivoltaic,-0.232173,23213480,1315.2,75.1
+400409,multi,58174,MA,Worcester,42.26347,-71.978062,47389,20220311,4,Wilson Solar,2013,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.5,greenfield,non-agrivoltaic,-0.361138,46308136,1315.2,75.1
+402594,single,61774,MA,Worcester,42.449908,-71.643743,99233,20220510,4,"Syncarpha Still River, LLC (CSG)",2016,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.8,PCSC,non-agrivoltaic,-0.881009,46308136,1315.2,75.1
+400849,single,59030,MA,Hampden,42.184551,-72.582533,59384,20210514,4,Chicopee Solar,2013,ISNE,PV,c-si,fixed-tilt,180,25,,3,3.9,greenfield,non-agrivoltaic,-0.0874,23213480,1315.2,75.1
+401286,single,59766,MA,Worcester,42.361195,-72.109733,30561,20200718,4,Barre II Solar Project,2014,ISNE,PV,c-si,fixed-tilt,180,20,,1.5,1.9,greenfield,non-agrivoltaic,-0.161615,46308136,1315.2,75.1
+400306,single,57838,MA,Bristol,41.679703,-71.033251,39560,20210322,4,Dartmouth II Solar,2012,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.5,superfund,non-agrivoltaic,-0.139923,27281600,1315.2,75.1
+400238,multi,57676,MA,Berkshire,42.452567,-73.241012,26374,20201105,4,Silver Lake Solar Photovoltaic Facility,2010,ISNE,PV,c-si,fixed-tilt,180,20,,1.8,1.8,superfund,non-agrivoltaic,-0.032859,6927750,1315.2,75.1
+400839,single,59013,MA,Plymouth,42.179876,-70.740461,48915,20220804,4,Scituate PV,2013,ISNE,PV,c-si,fixed-tilt,180,25,,2.5,3,landfill,non-agrivoltaic,-0.179425,26619904,1315.2,75.1
+400510,single,58387,MA,Worcester,42.441956,-71.72248,48613,20220829,4,"CES Sterling, LLC",2013,ISNE,PV,c-si,fixed-tilt,180,0,,2,2.4,greenfield,non-agrivoltaic,-0.432854,46308136,1315.2,75.1
+400392,single,58097,MA,Barnstable,41.671039,-70.533175,60069,20210404,4,Green Meadows,2014,ISNE,PV,c-si,fixed-tilt,180,25,,3.5,4.3,greenfield,non-agrivoltaic,0.037812,13771725,1315.2,75.1
+400438,single,58270,MA,Plymouth,41.799755,-70.742861,140660,20220116,4,Acushnet AD Makepeace,2012,ISNE,PV,c-si,fixed-tilt,180,30,,4.7,4.7,greenfield,non-agrivoltaic,-0.770892,26619904,1315.2,75.1
+401285,multi,59765,MA,Worcester,42.403228,-72.104553,30256,20210309,4,Stetson Road Solar-Barre I,2014,ISNE,PV,c-si,fixed-tilt,180,20,,2,2.4,greenfield,non-agrivoltaic,0.201739,46308136,1315.2,75.1
+401296,single,59780,MA,Plymouth,41.92176,-70.645576,78664,20211207,4,New Bedford (MA) Plymouth,2014,ISNE,PV,c-si,fixed-tilt,180,20,,4.3,5.6,PCSC,non-agrivoltaic,0.029417,26619904,1315.2,75.1
+400810,single,58937,MA,Worcester,42.587862,-72.031557,37753,20210815,4,Gardner Solar 1,2014,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.5,greenfield,non-agrivoltaic,-0.075857,46308136,1315.2,75.1
+400848,single,59029,MA,Bristol,41.901221,-71.242475,36712,20220420,4,Rehoboth Solar,2013,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.6,greenfield,non-agrivoltaic,0.021638,27281600,1315.2,75.1
+401017,single,59361,MA,Hampden,42.201553,-72.322141,20005,20221018,4,"Browne Solar, LLC",2014,ISNE,PV,c-si,fixed-tilt,180,30,,1.4,1.4,greenfield,non-agrivoltaic,0.003874,23213480,1315.2,75.1
+400827,multi,58974,MA,Franklin,42.458971,-72.612428,47324,20220703,4,Fairview Farms Solar,2014,ISNE,PV,c-si,fixed-tilt,180,25,,2.3,2.3,greenfield,non-agrivoltaic,-0.449135,2835214,1315.2,75.1
+400415,single,58210,MA,Franklin,42.61042,-72.475205,39256,20220901,4,"NFM Solar Power, LLC",2012,ISNE,PV,thin-film,fixed-tilt,180,20,,1.9,2,greenfield,non-agrivoltaic,-0.399409,2835214,1315.2,75.1
+400852,single,59033,MA,Franklin,42.446228,-72.621519,28764,20201022,4,Whately Solar,2013,ISNE,PV,c-si,fixed-tilt,180,32,,1.5,1.8,greenfield,non-agrivoltaic,-0.152995,2835214,1315.2,75.1
+400850,single,59031,MA,Hampden,42.060096,-72.662635,29599,20220703,4,Route 57 Solar,2013,ISNE,PV,c-si,fixed-tilt,180,32,,1.5,1.8,greenfield,non-agrivoltaic,-0.19041,23213480,1315.2,75.1
+400858,single,59046,MA,Worcester,42.627268,-71.744525,39853,20220918,4,651 Chase Solar NG,2014,ISNE,PV,c-si,fixed-tilt,180,25,,3.4,3.4,greenfield,non-agrivoltaic,0.328686,46308136,1315.2,75.1
+401297,single,59781,MA,Worcester,42.332416,-71.989017,75766,20220311,4,Upper Blackstone (MA) Treasure Valley,2014,ISNE,PV,c-si,fixed-tilt,180,20,,5,6,greenfield,non-agrivoltaic,0.198964,46308136,1315.2,75.1
+400912,single,59131,MA,Bristol,41.578048,-71.001079,25489,20220904,4,Dartmouth Landfill,2013,ISNE,PV,c-si,fixed-tilt,180,25,,1.3,1.3,landfill,non-agrivoltaic,-0.398259,27281600,1315.2,75.1
+401148,single,59543,MA,Middlesex,42.472817,-71.430244,22601,20220402,4,Acton Solar Landfill,2013,ISNE,PV,c-si,fixed-tilt,180,25,batteries,1.6,1.6,landfill,non-agrivoltaic,0.021038,190978324,1315.2,75.1
+400681,multi,58682,MA,Bristol,41.673701,-71.005229,200772,20220630,4,Dartmouth,2014,ISNE,PV,c-si,fixed-tilt,180,25,,6.25,7.5,greenfield,non-agrivoltaic,-0.687377,27281600,1315.2,75.1
+400782,single,58871,MA,Bristol,41.824019,-71.041051,61670,20220630,4,"Berkley East Solar, LLC",2013,ISNE,PV,c-si,fixed-tilt,180,0,,2.9,3.8,greenfield,non-agrivoltaic,-0.17335,27281600,1315.2,75.1
+401349,single,59866,MA,Hampden,42.187998,-72.363103,42849,20191024,4,"Palmer Solar, LLC",2013,ISNE,PV,c-si,single-axis,180,0,,2.5,2.5,greenfield,non-agrivoltaic,-0.242717,23213480,1315.2,75.1
+400344,single,57989,MA,Essex,42.750189,-71.036133,52712,20220625,4,Groveland Solar,2012,ISNE,PV,c-si,fixed-tilt,180,25,,3.2,3.5,superfund,non-agrivoltaic,-0.072057,47094918,1315.2,75.1
+400868,multi,59075,MA,Barnstable,41.745281,-70.102505,20428,20220413,4,Brewster Landfill,2014,ISNE,PV,c-si,fixed-tilt,180,25,,1,1.2,landfill,non-agrivoltaic,-0.234261,13771725,1315.2,75.1
+400345,single,57990,MA,Worcester,42.264714,-71.695495,48680,20210629,4,Shrewsbury Solar,2012,ISNE,PV,c-si,fixed-tilt,180,25,batteries,2.5,3.5,landfill,non-agrivoltaic,0.044442,46308136,1315.2,75.1
+400440,single,58272,MA,Hampshire,42.286693,-72.701702,46140,20220703,4,Easthampton Landfill-City of Easthampton,2012,ISNE,PV,c-si,fixed-tilt,180,30,,1.9,2.3,landfill,non-agrivoltaic,-0.422701,7702689,1315.2,75.1
+400759,single,58839,MA,Middlesex,42.364186,-71.386019,22585,20220421,4,Sudbury Landfill,2013,ISNE,PV,c-si,fixed-tilt,180,25,,1.3,1.6,landfill,non-agrivoltaic,0.022094,190978324,1315.2,75.1
+401206,single,59625,MA,Hampden,42.150087,-72.552479,35922,20220901,4,Chicopee River Solar,2015,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.6,landfill,non-agrivoltaic,0.054658,23213480,1315.2,75.1
+401207,single,59626,MA,Hampden,42.158146,-72.59591,31956,20220703,4,Chicopee Granby Road Solar,2015,ISNE,PV,c-si,fixed-tilt,180,25,,1.6,2.1,landfill,non-agrivoltaic,-0.086543,23213480,1315.2,75.1
+401487,single,60073,MA,Worcester,42.562134,-71.755967,41524,20220510,4,Leominster,2015,ISNE,PV,c-si,fixed-tilt,180,20,,2,2.5,greenfield,non-agrivoltaic,-0.203256,46308136,1315.2,75.1
+401603,multi,60278,MA,Worcester,42.090125,-72.011142,73048,20220311,4,Southbridge Solar,2016,ISNE,PV,c-si,fixed-tilt,180,25,batteries,1.9,2.6,greenfield,non-agrivoltaic,-0.724728,46308136,1315.2,75.1
+401831,single,60621,MA,Worcester,42.219329,-71.790338,97903,20220918,4,Worcester Landfill,2017,ISNE,PV,c-si,fixed-tilt,180,25,,6.5,8.2,landfill,non-agrivoltaic,0.295682,46308136,1315.2,75.1
+401882,single,60710,MA,Bristol,42.05912,-71.089852,39689,20220625,4,Stone Hill Solar (CSG),2014,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.7,greenfield,non-agrivoltaic,-0.037519,27281600,1315.2,75.1
+402307,single,61371,MA,Middlesex,42.252235,-71.426301,31077,20220402,4,Centaurus Solar-MA,2016,ISNE,PV,c-si,fixed-tilt,168,20,,2.4,2.8,greenfield,non-agrivoltaic,0.430078,190978324,1315.2,75.1
+402582,single,61755,MA,Berkshire,42.488608,-73.242137,72476,20210221,4,"East Acres Solar NG, LLC",2017,ISNE,PV,c-si,fixed-tilt,180,25,,5.8,6.8,greenfield,non-agrivoltaic,0.508989,6927750,1315.2,75.1
+400439,single,58271,MA,Bristol,41.662133,-71.042426,20013,20220630,4,Acushnet Hawes Reed Road,2012,ISNE,PV,c-si,fixed-tilt,172,25,,1,1.3,greenfield,non-agrivoltaic,-0.102589,27281600,1315.2,75.1
+400335,multi,57941,MA,Worcester,42.043345,-71.616708,47358,20220625,4,Town of Uxbridge MA at Commerce Dr,2012,ISNE,PV,c-si,fixed-tilt,180,20,,1.8,2.3,greenfield,non-agrivoltaic,-0.449866,46308136,1315.2,75.1
+400336,multi,57942,MA,Norfolk,42.127975,-71.337508,22954,20220918,4,Town of Norfolk MA at Medway Branch,2012,ISNE,PV,c-si,fixed-tilt,180,20,batteries,1.2,1.6,landfill,non-agrivoltaic,-0.002014,57045702,1315.2,75.1
+400446,single,58280,MA,Worcester,42.164809,-71.796387,64751,20211220,4,Millbury Solar,2014,ISNE,PV,c-si,fixed-tilt,180,25,,3,3.9,greenfield,non-agrivoltaic,-0.202749,46308136,1315.2,75.1
+400519,single,58410,MA,Plymouth,42.11337,-70.709377,57957,20220804,4,Marshfield PV,2013,ISNE,PV,c-si,fixed-tilt,177,22,,3,4,landfill,non-agrivoltaic,-0.016603,26619904,1315.2,75.1
+400609,single,58561,MA,Essex,42.833954,-70.991482,25072,20220704,4,Merrimac Solar,2013,ISNE,PV,c-si,fixed-tilt,180,25,,1.5,2,greenfield,non-agrivoltaic,0.211261,47094918,1315.2,75.1
+400622,single,58586,MA,Plymouth,42.046019,-70.961907,33100,20220704,4,Town of East Bridgewater (CSG),2013,ISNE,PV,c-si,single-axis,180,0,,2,2.4,greenfield,non-agrivoltaic,0.057354,26619904,1315.2,75.1
+400712,single,58749,MA,Plymouth,41.793817,-70.725335,23664,20210404,4,Tihonet Solar,2014,ISNE,PV,c-si,fixed-tilt,180,30,,1,1.4,greenfield,non-agrivoltaic,-0.225379,26619904,1315.2,75.1
+400807,single,58934,MA,Worcester,42.599809,-71.9438,50726,20220402,4,"Integrys MA Solar, LLC-Ashburnham Site",2013,ISNE,PV,c-si,fixed-tilt,180,10,batteries,2.9,4,greenfield,non-agrivoltaic,0.191844,46308136,1315.2,75.1
+400867,single,59060,MA,Berkshire,42.405173,-73.2446,24456,20210313,4,Wastewater Treatment Plant,2012,ISNE,PV,c-si,fixed-tilt,200,20,,1.5,1.6,greenfield,non-agrivoltaic,-0.092726,6927750,1315.2,75.1
+400870,single,59078,MA,Barnstable,41.695436,-70.097189,78239,20211011,4,Harwich Landfill,2014,ISNE,PV,c-si,fixed-tilt,180,25,,4,4.5,landfill,non-agrivoltaic,-0.260251,13771725,1315.2,75.1
+400875,single,59085,MA,Plymouth,41.851941,-70.570777,97009,20220524,4,"Lepomis PV Energy, LLC",2014,ISNE,PV,c-si,single-axis,180,0,,4.5,6,greenfield,non-agrivoltaic,-0.16843,26619904,1315.2,75.1
+400902,single,59121,MA,Bristol,41.751768,-70.966757,31444,20220921,4,Acushnet-Braley Road 1,2013,ISNE,PV,c-si,single-axis,180,0,,1.9,2,greenfield,non-agrivoltaic,-0.131256,27281600,1315.2,75.1
+400680,multi,58680,MA,Bristol,41.748852,-70.965932,56663,20210921,4,Braley Road 2,2015,ISNE,PV,c-si,fixed-tilt,180,25,,2.6,3.5,greenfield,non-agrivoltaic,-0.170162,27281600,1315.2,75.1
+400909,single,59128,MA,Bristol,41.713153,-70.987012,50855,20220904,4,Acushnet-High Hill,2013,ISNE,PV,c-si,fixed-tilt,180,25,,3.2,3.2,greenfield,non-agrivoltaic,-0.14567,27281600,1315.2,75.1
+400918,single,59137,MA,Plymouth,41.961052,-70.771163,17355,20220116,4,Plymouth Site 1,2013,ISNE,PV,c-si,fixed-tilt,180,25,,4,5.6,greenfield,non-agrivoltaic,5.357413,26619904,1315.2,75.1
+400950,single,59179,MA,Norfolk,42.04688,-71.400167,77677,20220918,4,Franklin 2,2013,ISNE,PV,c-si,fixed-tilt,180,25,,4,4.8,greenfield,non-agrivoltaic,-0.16961,57045702,1315.2,75.1
+401039,single,59394,MA,Worcester,42.197566,-71.669371,10609,20220221,4,Grafton Solar,2013,ISNE,PV,c-si,fixed-tilt,180,25,,1.5,1.7,greenfield,non-agrivoltaic,1.916129,46308136,1315.2,75.1
+401998,single,60855,MA,Middlesex,42.581897,-71.245727,65960,20220310,4,Iron Horse Solar I (CSG),2016,ISNE,PV,c-si,fixed-tilt,180,20,,2.9,3.7,greenfield,non-agrivoltaic,-0.290363,190978324,1315.2,75.1
+401041,single,59396,MA,Middlesex,42.584743,-71.251016,29933,20220918,4,Shaffer,2014,ISNE,PV,c-si,fixed-tilt,180,10,,5,6,superfund,non-agrivoltaic,2.767945,190978324,1315.2,75.1
+401082,single,59466,MA,Worcester,42.659736,-71.993392,34830,20220402,4,Winchendon Solar,2014,ISNE,PV,c-si,fixed-tilt,180,20,,1.9,2.4,greenfield,non-agrivoltaic,-0.018921,46308136,1315.2,75.1
+401097,single,59484,MA,Hampshire,42.352054,-72.538563,40049,20220901,4,"Hadley Solar NG, LLC",2014,ISNE,PV,c-si,fixed-tilt,180,25,,2,3,greenfield,non-agrivoltaic,0.108218,7702689,1315.2,75.1
+401172,multi,59573,MA,Dukes,41.442833,-70.614626,20066,20210310,4,Tisbury Landfill Solar,2014,ISNE,PV,c-si,fixed-tilt,180,25,,1.1,1.2,landfill,non-agrivoltaic,-0.211821,1453100,1315.2,75.1
+401205,single,59624,MA,Hampden,42.14804,-72.748159,31064,20210514,4,Twiss Street Solar,2015,ISNE,PV,c-si,fixed-tilt,180,25,,1.5,2,landfill,non-agrivoltaic,-0.114749,23213480,1315.2,75.1
+401263,single,59731,MA,Worcester,42.521963,-72.069098,61421,20210815,4,Templeton,2014,ISNE,PV,c-si,fixed-tilt,180,20,,3,4.5,greenfield,non-agrivoltaic,0.073415,46308136,1315.2,75.1
+401293,single,59777,MA,Worcester,42.431259,-71.985959,40170,20220311,4,RGS-Rutland VNM SREC II Project (MA),2015,ISNE,PV,c-si,fixed-tilt,180,20,,2.6,2.6,greenfield,non-agrivoltaic,-0.107523,46308136,1315.2,75.1
+401313,single,59821,MA,Hampden,42.119181,-72.168077,74697,20220131,4,205 Sturbridge A,2014,ISNE,PV,c-si,fixed-tilt,180,30,,3,4,greenfield,non-agrivoltaic,-0.344279,23213480,1315.2,75.1
+401314,single,59822,MA,Hampden,42.120909,-72.171591,45158,20220131,4,201 Sturbridge B,2014,ISNE,PV,c-si,fixed-tilt,180,30,,2,2.2,greenfield,non-agrivoltaic,-0.446645,23213480,1315.2,75.1
+401448,single,60022,MA,Worcester,42.142475,-71.852189,57925,20211220,4,Oxford,2014,ISNE,PV,c-si,fixed-tilt,180,25,,2.8,3.5,greenfield,non-agrivoltaic,-0.198677,46308136,1315.2,75.1
+401490,single,60076,MA,Hampden,42.218094,-72.313429,93205,20201015,4,Palmer Landfill,2016,ISNE,PV,c-si,fixed-tilt,180,25,,4,5,landfill,non-agrivoltaic,-0.342262,23213480,1315.2,75.1
+401482,single,60065,MA,Plymouth,41.807418,-70.721971,102743,20220722,4,"Federal Road Solar 1, LLC (CSG)",2015,ISNE,PV,c-si,fixed-tilt,180,25,,4.4,6,greenfield,non-agrivoltaic,-0.241565,26619904,1315.2,75.1
+401483,single,60067,MA,Bristol,41.796466,-71.220561,30548,20220923,4,BWC Swan Pond River (CSG),2015,ISNE,PV,c-si,fixed-tilt,180,20,,1.6,2.4,landfill,non-agrivoltaic,0.185675,27281600,1315.2,75.1
+401489,single,60075,MA,Bristol,41.593431,-71.01856,97600,20220608,4,Fisher Road Solar,2015,ISNE,PV,c-si,fixed-tilt,180,25,,4.6,6,greenfield,non-agrivoltaic,-0.176371,27281600,1315.2,75.1
+401515,single,60110,MA,Norfolk,42.278781,-71.260241,50209,20220918,4,Town of Needham VNEM (CSG),2016,ISNE,PV,c-si,fixed-tilt,180,25,,3,3.6,landfill,non-agrivoltaic,0.040257,57045702,1315.2,75.1
+401516,single,60111,MA,Hampshire,42.387616,-72.713107,40160,20220703,4,"Williamsburg Solar, LLC VNEM (CSG)",2016,ISNE,PV,c-si,fixed-tilt,180,20,,2.2,3,greenfield,non-agrivoltaic,0.103823,7702689,1315.2,75.1
+401600,single,60274,MA,Hampden,42.176102,-72.755599,37232,20210519,4,"CED Westfield Solar, LLC",2016,ISNE,PV,c-si,fixed-tilt,180,25,batteries,2,2.6,PCSC,non-agrivoltaic,0.000682,23213480,1315.2,75.1
+401693,single,60423,MA,Bristol,41.664216,-70.861502,31097,20220904,4,Fairhaven C (CSG),2017,ISNE,PV,c-si,fixed-tilt,180,25,,1.6,2.4,greenfield,non-agrivoltaic,0.15629,27281600,1315.2,75.1
+401694,single,60424,MA,Plymouth,42.027954,-71.048019,12071,20220625,4,West Bridgewater AB (CSG),2017,ISNE,PV,c-si,fixed-tilt,180,25,,1.7,2.2,greenfield,non-agrivoltaic,2.382617,26619904,1315.2,75.1
+401707,single,60442,MA,Plymouth,41.94664,-70.761409,35921,20211011,4,Carver MA 1 Community Solar,2016,ISNE,PV,c-si,fixed-tilt,180,20,,2,2.7,greenfield,non-agrivoltaic,0.113664,26619904,1315.2,75.1
+402096,single,61009,MA,Plymouth,41.949406,-70.760236,26966,20220116,4,Spring Street Solar 1 (CSG),2017,ISNE,PV,c-si,fixed-tilt,180,20,,2,2.5,greenfield,non-agrivoltaic,0.48536,26619904,1315.2,75.1
+401708,single,60443,MA,Plymouth,41.801548,-70.703202,39256,20210310,4,Wareham MA 1 Community Solar,2016,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.7,greenfield,non-agrivoltaic,-0.021633,26619904,1315.2,75.1
+401743,single,60492,MA,Berkshire,42.244436,-73.36724,45901,20220121,4,Rail Trail,2016,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.8,greenfield,non-agrivoltaic,-0.186434,6927750,1315.2,75.1
+401744,single,60493,MA,Berkshire,42.236935,-73.355206,42678,20220121,4,Rising Paper,2016,ISNE,PV,c-si,fixed-tilt,180,15,,2.5,3.3,landfill,non-agrivoltaic,0.159405,6927750,1315.2,75.1
+401826,multi,60612,MA,Worcester,42.167299,-72.191754,82975,20220131,4,"Morin Solar 2013, LLC",2013,ISNE,PV,c-si,fixed-tilt,180,25,,4,5.6,greenfield,non-agrivoltaic,-0.048936,46308136,1315.2,75.1
+400444,multi,58276,MA,Worcester,42.173288,-72.199984,320427,20220131,4,Mass Midstate Solar 2,2014,ISNE,PV,c-si,fixed-tilt,180,25,,5,6,greenfield,non-agrivoltaic,-1.082097,46308136,1315.2,75.1
+401827,single,60613,MA,Worcester,42.257666,-72.068872,40984,20210815,4,"Brookfield Solar 2013, LLC",2013,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.5,greenfield,non-agrivoltaic,-0.186441,46308136,1315.2,75.1
+401828,single,60614,MA,Hampden,42.151142,-72.269574,19083,20221018,4,"WYM 1250 Palmer, LLC",2013,ISNE,PV,c-si,fixed-tilt,180,25,,1,1.2,greenfield,non-agrivoltaic,-0.146564,23213480,1315.2,75.1
+401829,single,60615,MA,Bristol,41.838146,-71.090794,59435,20221010,4,"Southern Sky Renew Energy Berkley, LLC",2014,ISNE,PV,c-si,fixed-tilt,180,30,,3,3.6,greenfield,non-agrivoltaic,-0.195541,27281600,1315.2,75.1
+401835,multi,60625,MA,Barnstable,41.769465,-70.520636,20643,20220606,4,"Renew Canal 1 (CSG), LLC",2017,ISNE,PV,c-si,fixed-tilt,180,20,,1.2,1.5,greenfield,non-agrivoltaic,0.060697,13771725,1315.2,75.1
+401847,single,60644,MA,Worcester,42.222506,-72.129627,31895,20221028,4,"West Brookfield Solar, LLC",2016,ISNE,PV,c-si,fixed-tilt,180,35,,1.4,1.8,greenfield,non-agrivoltaic,-0.283142,46308136,1315.2,75.1
+401850,single,60653,MA,Hampshire,42.259517,-72.400314,20038,20221018,4,Belchertown,2015,ISNE,PV,c-si,fixed-tilt,180,20,,1,1.3,greenfield,non-agrivoltaic,-0.104327,7702689,1315.2,75.1
+401918,single,60753,MA,Middlesex,42.541906,-71.676276,19975,20220510,4,Shirley Landfill,2017,ISNE,PV,c-si,fixed-tilt,180,20,,1,1.3,landfill,non-agrivoltaic,-0.099992,190978324,1315.2,75.1
+401922,multi,60757,MA,Plymouth,41.801293,-70.549485,51412,20220505,4,Cedarville (CSG),2017,ISNE,PV,c-si,single-axis,180,0,,2.5,3.3,greenfield,non-agrivoltaic,-0.118923,26619904,1315.2,75.1
+401934,single,60775,MA,Franklin,42.561789,-72.587337,84871,20220703,4,Deerfield (CSG) Solar,2017,ISNE,PV,c-si,single-axis,201,0,,4.5,6,greenfield,non-agrivoltaic,0.018964,2835214,1315.2,75.1
+401952,single,60799,MA,Middlesex,42.580169,-71.260784,76993,20220918,4,"Iron Horse Solar 4, LLC",2017,ISNE,PV,c-si,fixed-tilt,180,20,,4.5,5.9,superfund,non-agrivoltaic,0.144706,190978324,1315.2,75.1
+401965,single,60816,MA,Middlesex,42.46876,-71.253499,17675,20220918,4,Town of Lexington Solar,2017,ISNE,PV,c-si,fixed-tilt,180,10,,1.6,2.2,landfill,non-agrivoltaic,1.158194,190978324,1315.2,75.1
+401994,single,60851,MA,Worcester,42.175459,-71.986712,37235,20220311,4,Curtis Hill Solar (CSG),2016,ISNE,PV,c-si,fixed-tilt,25,25,,1.9,2.9,greenfield,non-agrivoltaic,0.171261,46308136,1315.2,75.1
+401995,single,60852,MA,Worcester,42.153865,-71.987639,41046,20220311,4,Depot Hill Solar (CSG),2016,ISNE,PV,c-si,fixed-tilt,180,25,,1.9,2.9,greenfield,non-agrivoltaic,0.018042,46308136,1315.2,75.1
+401997,single,60854,MA,Norfolk,42.110991,-71.262881,71346,20220918,4,Bird Machine Solar Farm,2017,ISNE,PV,c-si,fixed-tilt,180,25,,3.5,4.6,landfill,non-agrivoltaic,-0.112832,57045702,1315.2,75.1
+402013,single,60879,MA,Berkshire,42.562632,-73.284502,35682,20201105,4,Nexamp Peak (CSG),2015,ISNE,PV,c-si,fixed-tilt,202,22,,1.7,1.7,greenfield,non-agrivoltaic,-0.469432,6927750,1315.2,75.1
+402029,single,60906,MA,Hampden,42.269138,-72.603174,72581,20220703,4,Mt. Tom Solar Project Hybrid,2017,ISNE,PV,c-si,fixed-tilt,180,25,batteries,5,5.9,PCSC,es,0.243407,23213480,1315.2,75.1
+402094,multi,61007,MA,Plymouth,41.832271,-70.612915,81335,20220505,4,Redbrook Community Solar 1,2017,ISNE,PV,c-si,fixed-tilt,180,20,,4,5.6,greenfield,non-agrivoltaic,-0.020098,26619904,1315.2,75.1
+402097,single,61010,MA,Bristol,41.728802,-70.989226,85360,20220904,4,Bullock Road Solar 1,2018,ISNE,PV,,fixed-tilt,180,25,,1.9,2.9,greenfield,non-agrivoltaic,-0.759029,27281600,1315.2,75.1
+402143,single,61097,MA,Plymouth,41.760056,-70.781737,12658,20220116,4,Syncarpha Freetown,2016,ISNE,PV,c-si,fixed-tilt,180,25,,3.9,5.2,greenfield,non-agrivoltaic,7.224871,26619904,1315.2,75.1
+402175,single,61163,MA,Plymouth,41.765828,-70.643391,21103,20220505,4,Onset East Community Solar Facility,2016,ISNE,PV,c-si,fixed-tilt,180,25,,1,1.4,greenfield,non-agrivoltaic,-0.073298,26619904,1315.2,75.1
+402176,single,61164,MA,Plymouth,41.765861,-70.645718,21028,20220505,4,Onset West Community Solar Facility,2016,ISNE,PV,c-si,fixed-tilt,180,25,,1,1.4,greenfield,non-agrivoltaic,-0.068258,26619904,1315.2,75.1
+402216,single,61237,MA,Bristol,41.807445,-71.184063,46640,20220923,4,"433 Purchase Solar NG, LLC",2012,ISNE,PV,c-si,fixed-tilt,180,25,,2,3.1,greenfield,non-agrivoltaic,-0.070615,27281600,1315.2,75.1
+402254,single,61295,MA,Hampshire,42.281255,-72.384847,21803,20191024,4,Belchertown Renewables Community Solar,2018,ISNE,PV,c-si,fixed-tilt,180,20,,4,5.1,greenfield,non-agrivoltaic,3.476988,7702689,1315.2,75.1
+402255,single,61296,MA,Worcester,42.493267,-71.771386,18417,20211220,4,Theodore Drive Community Solar,2018,ISNE,PV,c-si,fixed-tilt,182,25,,1.5,2,greenfield,non-agrivoltaic,0.82196,46308136,1315.2,75.1
+402259,single,61307,MA,Hampden,42.098325,-72.290666,26955,20220131,4,Peterson Road Solar,2017,ISNE,PV,c-si,fixed-tilt,175,30,,2.5,3.6,greenfield,non-agrivoltaic,1.350719,23213480,1315.2,75.1
+402887,single,62203,MA,Hampden,42.098345,-72.289444,18488,20220131,4,"Monson Solar, LLC",2017,ISNE,PV,c-si,fixed-tilt,186,30,,2,2.6,greenfield,non-agrivoltaic,1.500737,23213480,1315.2,75.1
+402308,multi,61373,MA,Norfolk,42.068359,-71.461516,60483,20220402,4,Kearsarge Bellingham PV,2016,ISNE,PV,c-si,fixed-tilt,180,20,,2.9,4.1,landfill,non-agrivoltaic,-0.042644,57045702,1315.2,75.1
+402333,single,61415,MA,Worcester,42.331376,-71.771374,8592,20211220,4,West Boylston Community Shared Solar,2016,ISNE,PV,c-si,fixed-tilt,183,28,,1.5,2.1,greenfield,non-agrivoltaic,3.699647,46308136,1315.2,75.1
+402345,single,61429,MA,Plymouth,41.902167,-70.716086,17823,20210329,4,Big George PV (CSG),2018,ISNE,PV,c-si,single-axis,180,0,,1,1.2,greenfield,non-agrivoltaic,-0.052325,26619904,1315.2,75.1
+402426,single,61537,MA,Middlesex,42.374412,-71.282283,29287,20220423,4,Weston Landfill Solar,2016,ISNE,PV,c-si,fixed-tilt,180,15,,1.8,2.3,landfill,non-agrivoltaic,0.185047,190978324,1315.2,75.1
+402427,single,61538,MA,Norfolk,42.207188,-70.997965,19628,20220625,4,Braintree Landfill Solar,2014,ISNE,PV,c-si,fixed-tilt,180,25,,1,1.3,landfill,non-agrivoltaic,-0.075588,57045702,1315.2,75.1
+402428,single,61539,MA,Middlesex,42.260213,-71.501401,13185,20220402,4,GELD Solar Farm,2016,ISNE,PV,c-si,fixed-tilt,180,15,,2.3,3,landfill,non-agrivoltaic,3.341618,190978324,1315.2,75.1
+402436,single,61550,MA,Essex,42.810884,-71.123389,53657,20220529,4,DG Haverhill (CSG),2017,ISNE,PV,c-si,fixed-tilt,180,20,,4.2,4.2,greenfield,non-agrivoltaic,0.179567,47094918,1315.2,75.1
+402447,multi,61562,MA,Barnstable,41.609312,-70.598798,83269,20211109,4,Falmouth Landfill Solar,2017,ISNE,PV,c-si,fixed-tilt,180,25,,3,4,landfill,non-agrivoltaic,-0.461084,13771725,1315.2,75.1
+402471,single,61596,MA,Hampden,42.092988,-72.597262,33462,20220703,4,Citizens Agawam Landfill Solar,2017,ISNE,PV,c-si,fixed-tilt,180,25,,1.8,2.6,landfill-named,non-agrivoltaic,0.167355,23213480,1315.2,75.1
+402477,single,61602,MA,Hampden,42.202571,-72.552389,59326,20220703,4,CED Chicopee Solar,2017,ISNE,PV,c-si,fixed-tilt,180,25,,3,4.1,greenfield,non-agrivoltaic,-0.014636,23213480,1315.2,75.1
+402504,single,61633,MA,Worcester,42.237569,-71.686095,13159,20220108,4,"DG Tufts Science, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,20,,1,1,greenfield,non-agrivoltaic,0.131159,46308136,1315.2,75.1
+402506,single,61635,MA,Worcester,42.243179,-71.67223,28761,20210322,4,"DG Tufts Knoll, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,20,,2,2.5,greenfield,non-agrivoltaic,0.362762,46308136,1315.2,75.1
+402565,single,61726,MA,Plymouth,42.051539,-70.800886,38753,20221012,4,Onyx-Pembroke Landfill Solar,2017,ISNE,PV,c-si,fixed-tilt,180,15,,2.4,3.3,landfill,non-agrivoltaic,0.325311,26619904,1315.2,75.1
+402566,single,61727,MA,Plymouth,42.068829,-70.990367,49800,20220206,4,Onyx-Brockton Thatcher Landfill Solar (CSG),2017,ISNE,PV,c-si,fixed-tilt,180,15,,3.7,4.4,landfill-named,non-agrivoltaic,0.393092,26619904,1315.2,75.1
+402570,single,61731,MA,Norfolk,42.041591,-71.292417,124837,20220423,4,"Solten Plainville 6000, LLC",2017,ISNE,PV,c-si,fixed-tilt,158,20,,4.9,5.9,landfill,non-agrivoltaic,-0.477508,57045702,1315.2,75.1
+402571,single,61732,MA,Norfolk,42.176876,-71.07742,101717,20220529,4,Randolph,2017,ISNE,PV,c-si,fixed-tilt,167,20,,3.8,4.8,landfill,non-agrivoltaic,-0.479031,57045702,1315.2,75.1
+402591,single,61769,MA,Berkshire,42.433648,-73.336124,32574,20220121,4,Syncarpha Hancock I (CSG),2017,ISNE,PV,c-si,fixed-tilt,180,20,,2,2.8,greenfield,non-agrivoltaic,0.342316,6927750,1315.2,75.1
+402593,single,61771,MA,Berkshire,42.428829,-73.331033,20208,20201031,4,Syncarpha Hancock III (CSG),2017,ISNE,PV,c-si,fixed-tilt,180,25,,1,1.4,greenfield,non-agrivoltaic,-0.010999,6927750,1315.2,75.1
+402592,single,61770,MA,Berkshire,42.425821,-73.345041,39446,20211223,4,Syncarpha Hancock II (CSG),2017,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.8,greenfield,non-agrivoltaic,0.02507,6927750,1315.2,75.1
+402613,multi,61814,MA,Middlesex,42.450291,-71.419521,65489,20220310,4,Kearsarge Concord II,2017,ISNE,PV,c-si,fixed-tilt,180,20,,4.5,5.5,superfund,non-agrivoltaic,0.300489,190978324,1315.2,75.1
+402789,single,62055,MA,Plymouth,41.774697,-70.748228,44865,20220722,4,Wareham Solar PV,2018,ISNE,PV,c-si,fixed-tilt,180,10,,3.3,4.8,greenfield,non-agrivoltaic,0.787858,26619904,1315.2,75.1
+402880,single,62196,MA,Hampshire,42.351012,-72.556758,35865,20220703,4,"Hadley 2 Solar, LLC (CSG)",2016,ISNE,PV,c-si,fixed-tilt,181,25,,1.9,2.4,greenfield,"grazing,es",-0.061056,7702689,1315.2,75.1
+402899,single,62226,MA,Worcester,42.583821,-71.896317,23826,20220402,4,"Westminster Renewables, LLC (CSG)",2018,ISNE,PV,c-si,fixed-tilt,189,25,,1.5,2.1,greenfield,non-agrivoltaic,0.388507,46308136,1315.2,75.1
+402918,single,62265,MA,Berkshire,42.298226,-73.228644,29486,20210313,4,Lee Site 31 Solar,2018,ISNE,PV,c-si,fixed-tilt,180,20,,1.9,2.3,greenfield,non-agrivoltaic,0.173789,6927750,1315.2,75.1
+402937,single,62324,MA,Norfolk,42.131804,-71.271795,28944,20220509,4,Dynamic-Walpole,2017,ISNE,PV,c-si,fixed-tilt,180,15,,2,2.4,greenfield,non-agrivoltaic,0.277958,57045702,1315.2,75.1
+402963,multi,62363,MA,Worcester,42.419029,-72.11425,35970,20221028,4,"Barre Solar III, LLC",2018,ISNE,PV,c-si,fixed-tilt,180,25,,1,1.3,greenfield,non-agrivoltaic,-0.713118,46308136,1315.2,75.1
+402967,single,62369,MA,Plymouth,41.775102,-70.695972,65331,20221027,4,BWC Gibbs Brook,2018,ISNE,PV,c-si,fixed-tilt,180,20,,4,5.2,greenfield,non-agrivoltaic,0.207509,26619904,1315.2,75.1
+402968,single,62370,MA,Plymouth,41.783663,-70.692992,16988,20221027,4,BWC Wareham River,2018,ISNE,PV,c-si,fixed-tilt,180,20,,1,1.4,greenfield,non-agrivoltaic,0.267174,26619904,1315.2,75.1
+402969,single,62371,MA,Plymouth,41.782479,-70.690708,23803,20221027,4,BWC Harlow Brook,2018,ISNE,PV,c-si,fixed-tilt,180,20,,1.5,1.8,greenfield,non-agrivoltaic,0.123341,26619904,1315.2,75.1
+402970,single,62372,MA,Plymouth,41.78228,-70.68782,21741,20221027,4,BWC Pocasset River,2018,ISNE,PV,c-si,fixed-tilt,180,20,,1.5,1.8,greenfield,non-agrivoltaic,0.275265,26619904,1315.2,75.1
+400840,single,59014,MA,Worcester,42.45188,-71.641238,44981,20220510,4,Bolton PV,2013,ISNE,PV,c-si,fixed-tilt,180,25,,4.9,6,PCSC,non-agrivoltaic,1.347213,46308136,1315.2,75.1
+401521,single,60116,MA,Worcester,42.023001,-71.59986,24266,20220625,4,"BJ's Wholesale Club, Inc-Uxbridge",2017,ISNE,PV,c-si,single-axis,165,0,,1,1.3,greenfield,non-agrivoltaic,-0.343809,46308136,1315.2,75.1
+401279,single,59752,MA,Worcester,42.223716,-71.666908,33801,20220108,4,BlueWave Capital-Grafton (SREC II),2015,ISNE,PV,c-si,fixed-tilt,180,25,batteries,1.3,1.6,greenfield,non-agrivoltaic,-0.475926,46308136,1315.2,75.1
+402257,single,61298,MA,Worcester,42.333573,-71.991664,16069,20220311,4,Pleasantdale Road Community Solar,2017,ISNE,PV,c-si,fixed-tilt,187,20,,1,1.3,greenfield,non-agrivoltaic,0.23515,46308136,1315.2,75.1
+401669,multi,60391,MA,Worcester,42.289445,-72.011406,250558,20220311,4,"SJA Solar, LLC-Solterra Monastery (CSG)",2016,ISNE,PV,c-si,fixed-tilt,180,20,,14.68,20.1,greenfield,non-agrivoltaic,0.220783,46308136,1315.2,75.1
+401732,single,60476,MA,Bristol,41.617811,-71.04377,30002,20220904,4,Westport MA 2 Community Solar,2016,ISNE,PV,c-si,fixed-tilt,180,20,,1.2,1.6,greenfield,non-agrivoltaic,-0.34893,27281600,1315.2,75.1
+402288,multi,61342,MA,Worcester,42.160675,-71.873678,248868,20220311,4,Barrett PV,2016,ISNE,PV,c-si,fixed-tilt,180,25,,11.93,16.4,greenfield,non-agrivoltaic,-0.082661,46308136,1315.2,75.1
+402006,single,60867,MA,Hampden,42.015485,-72.775852,85262,20220617,4,"Kearsarge Southwick, LLC",2015,ISNE,PV,c-si,fixed-tilt,180,35,,3.3,4.9,greenfield,non-agrivoltaic,-0.261238,23213480,1315.2,75.1
+403241,single,62870,MA,Worcester,42.601876,-72.039385,37487,20221028,4,Gardner-Otter River Road,2019,ISNE,PV,c-si,fixed-tilt,180,20,,2.5,3.3,greenfield,non-agrivoltaic,0.386235,46308136,1315.2,75.1
+403117,single,62652,MA,Worcester,42.607617,-72.043911,94897,20221028,4,Happy Hollow (CSG) Hybrid,2019,ISNE,PV,c-si,fixed-tilt,180,25,batteries,7.1,7.1,greenfield,non-agrivoltaic,0.106319,46308136,1315.2,75.1
+403319,multi,62992,MA,Hampden,42.009605,-72.783099,84936,20220901,4,Goose Pond Solar,2020,ISNE,PV,c-si,fixed-tilt,170,30,,4,5.8,greenfield,non-agrivoltaic,-0.032063,23213480,1315.2,75.1
+403721,single,63557,MA,Worcester,42.257604,-71.974128,18590,20220311,4,"Blair Wire Village Solar, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,1,1.4,greenfield,non-agrivoltaic,0.116748,46308136,1315.2,75.1
+400517,multi,58403,MA,Worcester,42.076886,-71.701562,52975,20211024,4,Bellingham PV,2013,ISNE,PV,c-si,fixed-tilt,180,25,,3,3.8,greenfield,non-agrivoltaic,0.040945,46308136,1315.2,75.1
+400520,multi,58411,MA,Franklin,42.581909,-72.293864,50958,20191024,4,Orange PV,2013,ISNE,PV,c-si,fixed-tilt,180,30,,2,2.4,greenfield,non-agrivoltaic,-0.480985,2835214,1315.2,75.1
+400526,multi,58423,MA,Worcester,42.043848,-71.991569,63953,20210727,4,Southbridge PV,2014,ISNE,PV,c-si,fixed-tilt,180,30,,3,3.4,greenfield,non-agrivoltaic,-0.35246,46308136,1315.2,75.1
+400590,multi,58534,MA,Middlesex,42.636569,-71.41913,63945,20220302,4,Westford Solar Park,2012,ISNE,PV,c-si,fixed-tilt,180,20,,4,4.5,greenfield,non-agrivoltaic,0.012137,190978324,1315.2,75.1
+400611,multi,58568,MA,Hampden,42.140548,-72.538492,66851,20211215,4,Cottage Street Solar Facility,2014,ISNE,PV,c-si,fixed-tilt,180,20,,3.2,3.9,landfill,non-agrivoltaic,-0.242826,23213480,1315.2,75.1
+400879,multi,59090,MA,Plymouth,42.089404,-70.892514,34408,20211011,4,Rockland Solar (CSG),2013,ISNE,PV,c-si,fixed-tilt,180,10,,2,2.6,landfill,non-agrivoltaic,0.122092,26619904,1315.2,75.1
+400916,single,59135,MA,Hampden,42.181082,-72.51104,39964,20220901,4,Ludlow Landfill,2013,ISNE,PV,c-si,fixed-tilt,180,25,,2.6,2.6,landfill,non-agrivoltaic,-0.100444,23213480,1315.2,75.1
+404021,single,64120,MA,Hampden,42.178473,-72.515446,21595,20220901,4,Chicopee,2017,ISNE,PV,c-si,single-axis,180,0,batteries,2,2.5,greenfield,non-agrivoltaic,0.973888,23213480,1315.2,75.1
+400917,multi,59136,MA,Essex,42.743559,-71.176113,24538,20220918,4,Methuen Landfill,2013,ISNE,PV,c-si,fixed-tilt,180,20,,1.3,1.3,landfill,non-agrivoltaic,-0.356385,47094918,1315.2,75.1
+401014,multi,59358,MA,Middlesex,42.55889,-71.625838,91124,20220520,4,Devens,2014,ISNE,PV,c-si,fixed-tilt,180,25,,2,3.7,greenfield,non-agrivoltaic,-0.61856,190978324,1315.2,75.1
+401019,single,59363,MA,Hampden,42.202933,-72.323392,17374,20221018,4,"State Street Solar, LLC",2014,ISNE,PV,c-si,fixed-tilt,180,30,,1.4,1.4,greenfield,non-agrivoltaic,0.228384,23213480,1315.2,75.1
+401018,single,59362,MA,Hampden,42.203377,-72.322328,20077,20221018,4,"Indian Hill Solar, LLC",2014,ISNE,PV,c-si,fixed-tilt,180,30,,1.4,1.4,PCSC,non-agrivoltaic,-0.001465,23213480,1315.2,75.1
+401312,multi,59820,MA,Franklin,42.552639,-72.296251,43152,20191024,4,Hunt Farm Solar,2013,ISNE,PV,c-si,fixed-tilt,180,25,,3,3.3,greenfield,non-agrivoltaic,0.141388,2835214,1315.2,75.1
+401327,multi,59839,MA,Worcester,42.419202,-72.180632,43677,20211124,4,Spring Hill Road,2015,ISNE,PV,c-si,fixed-tilt,180,25,,1.9,2.6,greenfield,non-agrivoltaic,-0.217638,46308136,1315.2,75.1
+401354,multi,59873,MA,Middlesex,42.627235,-71.353017,23997,20220421,4,Lowell Solar Landfill,2013,ISNE,PV,c-si,fixed-tilt,180,25,,1.3,1.5,landfill,non-agrivoltaic,-0.154512,190978324,1315.2,75.1
+401385,multi,59927,MA,Essex,42.83084,-70.960483,89981,20220421,4,Hunt Road Solar,2016,ISNE,PV,c-si,fixed-tilt,180,25,,4.5,6,landfill,non-agrivoltaic,-0.066086,47094918,1315.2,75.1
+401474,multi,60056,MA,Hampden,42.224557,-72.311464,103852,20220131,4,"Syncarpha Palmer, LLC",2015,ISNE,PV,c-si,fixed-tilt,180,25,,4.8,6,greenfield,non-agrivoltaic,-0.254777,23213480,1315.2,75.1
+401721,multi,60458,MA,Worcester,42.309652,-72.188632,50617,20221018,4,Hardwick-Athol & Eagle Hill,2015,ISNE,PV,c-si,fixed-tilt,180,25,,2.8,3.4,greenfield,non-agrivoltaic,-0.0557,46308136,1315.2,75.1
+401729,single,60473,MA,Bristol,41.616204,-71.045077,27163,20220904,4,Westport MA 1 Community Solar,2016,ISNE,PV,c-si,fixed-tilt,180,20,,1.3,1.8,greenfield,non-agrivoltaic,-0.074844,27281600,1315.2,75.1
+401745,multi,60494,MA,Hampden,42.045504,-72.436624,62961,20211215,4,Hampden,2015,ISNE,PV,c-si,fixed-tilt,180,20,,3.2,4.3,greenfield,non-agrivoltaic,-0.031868,23213480,1315.2,75.1
+401749,multi,60498,MA,Middlesex,42.554694,-71.623685,62578,20220520,4,Shirley Water,2016,ISNE,PV,c-si,fixed-tilt,180,15,,2,2.6,greenfield,non-agrivoltaic,-0.598559,190978324,1315.2,75.1
+401901,multi,60731,MA,Middlesex,42.172335,-71.467473,25617,20220402,4,Holliston Solar (CSG),2015,ISNE,PV,c-si,fixed-tilt,180,17,,1,1.4,greenfield,non-agrivoltaic,-0.320944,190978324,1315.2,75.1
+402095,multi,61008,MA,Plymouth,41.956385,-70.774602,222992,20220116,4,Brook Street Solar 1 (CSG),2017,ISNE,PV,c-si,fixed-tilt,180,20,,5,6.5,greenfield,non-agrivoltaic,-0.861249,26619904,1315.2,75.1
+402217,multi,61243,MA,Worcester,42.240997,-72.037047,84776,20220311,4,Old Wardour Solar,2016,ISNE,PV,c-si,fixed-tilt,180,25,,4.3,6,greenfield,non-agrivoltaic,0.020651,46308136,1315.2,75.1
+402219,multi,61245,MA,Worcester,42.242829,-72.030483,92799,20220311,4,Vuelta Solar,2016,ISNE,PV,c-si,fixed-tilt,180,25,,4.7,6,greenfield,non-agrivoltaic,-0.108984,46308136,1315.2,75.1
+403871,multi,63887,MA,Worcester,42.233306,-72.030455,17777,20211124,4,"East Brookfield Main Street Solar, LLC (CSG)",2020,ISNE,PV,c-si,fixed-tilt,180,25,,1,1.4,greenfield,non-agrivoltaic,0.189692,46308136,1315.2,75.1
+402287,multi,61341,MA,Worcester,42.225975,-71.663108,40574,20211124,4,Grafton PV,2016,ISNE,PV,c-si,fixed-tilt,180,20,,2.7,3.7,greenfield,"crop,grazing",0.453227,46308136,1315.2,75.1
+402323,multi,61399,MA,Middlesex,42.680101,-71.835933,39621,20220402,4,Ashby Duffy (CSG) Solar Farm,2017,ISNE,PV,c-si,fixed-tilt,180,25,,1.8,2.7,greenfield,non-agrivoltaic,-0.035038,190978324,1315.2,75.1
+402416,multi,61526,MA,Worcester,42.250342,-71.950628,15974,20220311,4,Antanavica Solar,2018,ISNE,PV,thin-film,fixed-tilt,180,20,,1,1.4,greenfield,non-agrivoltaic,0.378029,46308136,1315.2,75.1
+402472,multi,61597,MA,Bristol,41.959363,-71.150239,47530,20220629,4,Norton Landfill Solar,2017,ISNE,PV,c-si,fixed-tilt,180,25,,1.5,2,landfill,non-agrivoltaic,-0.587316,27281600,1315.2,75.1
+402473,multi,61598,MA,Middlesex,42.671216,-71.447384,57607,20211214,4,Tyngsborough Solar,2017,ISNE,PV,c-si,fixed-tilt,180,25,,2.6,3.5,superfund,non-agrivoltaic,-0.191602,190978324,1315.2,75.1
+402501,multi,61629,MA,Worcester,42.271231,-72.210375,96961,20221018,4,West Brookfield Solar-Gilbertsville Rd (CSG),2017,ISNE,PV,c-si,fixed-tilt,206,20,,4,5.9,greenfield,non-agrivoltaic,-0.189642,46308136,1315.2,75.1
+402882,multi,62198,MA,Worcester,42.146718,-72.004413,49419,20220311,4,"Griffin Road Solar, LLC (CSG)",2018,ISNE,PV,c-si,fixed-tilt,173,25,,2,2.6,greenfield,non-agrivoltaic,-0.364155,46308136,1315.2,75.1
+402966,multi,62368,MA,Plymouth,41.679464,-70.836128,72840,20220904,4,BWC Origination 18,2018,ISNE,PV,c-si,fixed-tilt,180,20,,4.8,6,greenfield,non-agrivoltaic,0.266351,26619904,1315.2,75.1
+403220,single,62825,MA,Hampden,42.177172,-72.728444,59360,20220122,4,"GSPP Terrawatt Westfield, LLC (CSG)",2019,ISNE,PV,c-si,fixed-tilt,180,30,,3.6,4.8,greenfield,non-agrivoltaic,0.234364,23213480,1315.2,75.1
+403303,multi,62975,MA,Hampden,42.213802,-72.936345,111666,20201110,4,Syncarpha Blandford Hybrid (CSG),2019,ISNE,PV,c-si,fixed-tilt,180,20,batteries,4.9,7.1,greenfield,non-agrivoltaic,-0.131727,23213480,1315.2,75.1
+403727,single,63565,MA,Worcester,42.25617,-71.97408,19368,20201008,4,"Woodchuck Solar, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,,,1,1.4,greenfield,non-agrivoltaic,0.052623,46308136,1315.2,75.1
+404430,multi,65175,MA,Hampden,42.037972,-72.657842,46822,20220703,4,"ENGIE 2019 ProjectCo-MA1, LLC",2021,ISNE,PV,,fixed-tilt,180,,,5,5.1,greenfield,non-agrivoltaic,0.8289,23213480,1315.2,75.1
+400841,multi,59015,MA,Middlesex,42.442815,-71.547964,34787,20220402,4,Stow PV,2013,ISNE,PV,c-si,fixed-tilt,180,25,,2,2.5,RCRA,non-agrivoltaic,0.043783,190978324,1315.2,75.1
+404539,single,61297,MA,Worcester,42.103961,-71.697007,19439,20220221,4,Upton Community Solar,2017,ISNE,PV,c-si,fixed-tilt,170,26,,2,2.5,greenfield,non-agrivoltaic,1.245934,46308136,1315.2,75.1
+402467,multi,61591,MA,Norfolk,42.056537,-71.226387,17809,20220918,4,Town of Foxborough-Landfill (SREC II) (CSG),2017,ISNE,PV,c-si,fixed-tilt,180,20,,1.2,1.6,landfill-named,non-agrivoltaic,0.424623,57045702,1315.2,75.1
+402507,single,61636,MA,Worcester,42.024722,-71.858173,20240,20220131,4,"DG Webster, LLC (CSG)",2017,ISNE,PV,c-si,fixed-tilt,180,20,,1.3,6.7,greenfield,non-agrivoltaic,5.534346,46308136,1315.2,75.1
+402614,multi,61815,MA,Hampshire,42.222699,-72.508759,15229,20220703,4,Kearsarge Granby,2017,ISNE,PV,c-si,fixed-tilt,180,20,,2.5,3,greenfield,non-agrivoltaic,2.694813,7702689,1315.2,75.1
+402797,single,62063,MA,Franklin,42.639052,-72.58514,24692,20220703,4,Greenfield Solar PV,2019,ISNE,PV,c-si,fixed-tilt,180,10,,2,2.8,greenfield,non-agrivoltaic,0.923657,2835214,1315.2,75.1
+402799,multi,62065,MA,Berkshire,42.552387,-73.036173,28524,20211217,4,Savoy Solar PV,2019,ISNE,PV,c-si,fixed-tilt,180,10,,2,2.8,greenfield,non-agrivoltaic,0.600917,6927750,1315.2,75.1
+403301,single,62972,MA,Worcester,42.2547,-71.88801,57401,20220918,4,Syncarpha Leicester Hybrid (CSG),2021,ISNE,PV,,fixed-tilt,180,,batteries,2.6,4,greenfield,non-agrivoltaic,-0.002422,46308136,1315.2,75.1
+403302,single,62973,MA,Plymouth,41.984757,-70.855426,26575,20220116,4,Syncarpha Halifax Hybrid (CSG),2020,ISNE,PV,c-si,fixed-tilt,180,25,batteries,1.7,2.5,greenfield,non-agrivoltaic,0.514289,26619904,1315.2,75.1
+403304,single,62976,MA,Hampshire,42.290601,-72.708058,47605,20220703,4,Syncarpha Northampton Hybrid (CSG),2020,ISNE,PV,c-si,fixed-tilt,180,15,batteries,3.6,4.6,greenfield,non-agrivoltaic,0.568422,7702689,1315.2,75.1
+403334,single,63011,MA,Worcester,42.176257,-72.154245,48925,20221028,4,"Cronin Road Solar 1, LLC (CSG) Hybrid",2020,ISNE,PV,c-si,fixed-tilt,166,26,batteries,1.5,3.8,greenfield,non-agrivoltaic,0.166735,46308136,1315.2,75.1
+403354,single,63041,MA,Worcester,42.2647,-72.072511,18402,20210815,4,"Lane Ave Solar, LLC",2021,ISNE,PV,,fixed-tilt,180,,,1.5,2,greenfield,non-agrivoltaic,0.82386,46308136,1315.2,75.1
+403357,multi,63044,MA,Worcester,42.265658,-72.063531,101449,20210815,4,"Ryan Road Solar, LLC Hybrid(CSG)",2021,ISNE,PV,,fixed-tilt,180,,batteries,4.3,9,greenfield,non-agrivoltaic,0.400732,46308136,1315.2,75.1
+403361,single,63048,MA,Franklin,42.602045,-72.353934,72779,20221018,4,"Wilbur Woods Solar, LLC",2021,ISNE,PV,c-si,fixed-tilt,180,,,5,7.2,greenfield,non-agrivoltaic,0.617156,2835214,1315.2,75.1
+403487,single,63232,MA,Worcester,42.21685,-72.121912,29230,20220131,4,Brookfield Wire Company,2016,ISNE,PV,c-si,fixed-tilt,180,25,,1.4,2,greenfield,non-agrivoltaic,-0.029157,46308136,1315.2,75.1
+403508,multi,63264,MA,Worcester,42.120063,-71.934639,44483,20220131,4,Partridge Hill Solar Hybrid,2020,ISNE,PV,c-si,fixed-tilt,185,25,batteries,2,2.8,greenfield,non-agrivoltaic,-0.145231,46308136,1315.2,75.1
+403562,single,63336,MA,Worcester,42.102926,-71.698604,13002,20220221,4,"Sutton Solar 2, LLC (CSG)",2020,ISNE,PV,c-si,single-axis,180,0,,1,1,greenfield,non-agrivoltaic,0.150687,46308136,1315.2,75.1
+403668,single,63469,MA,Worcester,42.068686,-72.002437,40336,20220311,4,Alicea Solar Project Hybrid (CSG),2020,ISNE,PV,c-si,fixed-tilt,179,26,batteries,2,3.3,greenfield,non-agrivoltaic,0.254521,46308136,1315.2,75.1
+403670,single,63472,MA,Worcester,42.220503,-71.971112,34417,20220311,4,Cycz Solar Project (CSG) Hybrid,2020,ISNE,PV,c-si,fixed-tilt,171,25,batteries,2,2.8,greenfield,non-agrivoltaic,0.244832,46308136,1315.2,75.1
+403673,multi,63475,MA,Worcester,42.393128,-71.654452,78712,20220108,4,Randall Solar Project Hybrid,2021,ISNE,PV,c-si,fixed-tilt,180,,batteries,5,7.4,greenfield,non-agrivoltaic,0.513011,46308136,1315.2,75.1
+403771,single,63672,MA,Plymouth,41.867869,-70.959475,36315,20210926,4,Lakeville Solar,2018,ISNE,PV,c-si,single-axis,180,0,,2.7,3.3,greenfield,non-agrivoltaic,0.446436,26619904,1315.2,75.1
+403782,multi,63690,MA,Hampden,42.147641,-72.498282,52983,20211215,4,Oak Street Solar,2019,ISNE,PV,c-si,fixed-tilt,180,20,,3.5,4.7,greenfield,non-agrivoltaic,0.40058,23213480,1315.2,75.1
+403843,single,63804,MA,Worcester,42.570881,-72.256212,60154,20191024,4,Partridgeville Hybrid (CSG),2020,ISNE,PV,c-si,fixed-tilt,180,25,batteries,3.3,4.7,greenfield,non-agrivoltaic,0.176548,46308136,1315.2,75.1
+403844,multi,63805,MA,Worcester,42.468017,-72.068812,81808,20221028,4,Williamsville Hybrid (CSG),2021,ISNE,PV,,fixed-tilt,180,,batteries,5,7.5,greenfield,non-agrivoltaic,0.463526,46308136,1315.2,75.1
+403899,single,63942,MA,Hampden,42.170247,-73.024599,73966,20201110,4,Sunpin Blandford,2020,ISNE,PV,c-si,fixed-tilt,180,20,,4.7,6.9,greenfield,non-agrivoltaic,0.497581,23213480,1315.2,75.1
+403908,multi,63953,MA,Hampshire,42.24816,-72.670554,30346,20220703,4,Easthampton (CSG),2020,ISNE,PV,c-si,fixed-tilt,180,15,,2.5,3,greenfield,non-agrivoltaic,0.615667,7702689,1315.2,75.1
+403940,single,64000,MA,Worcester,42.524152,-71.677499,59650,20220520,4,"Amaterasu, LLC",2021,ISNE,PV,,fixed-tilt,180,,batteries,4.6,6.7,greenfield,non-agrivoltaic,0.900891,46308136,1315.2,75.1
+403975,multi,64045,MA,Worcester,42.602689,-71.796393,62917,20210629,4,Fitchburg Renewables,2020,ISNE,PV,c-si,fixed-tilt,180,25,,4,5.1,greenfield,"grazing,es",0.238539,46308136,1315.2,75.1
+403983,multi,64060,MA,Worcester,42.266133,-71.688216,39575,20220131,4,SELCO Community Solar,2018,ISNE,PV,c-si,fixed-tilt,180,15,,3,3.9,greenfield,non-agrivoltaic,0.609048,46308136,1315.2,75.1
+404008,single,64107,MA,Norfolk,42.145608,-71.132533,50317,20220918,4,Canton,2012,ISNE,PV,c-si,fixed-tilt,180,5,,5,5.8,landfill,non-agrivoltaic,0.963306,57045702,1315.2,75.1
+404010,single,64109,MA,Plymouth,41.918643,-70.819186,53127,20220116,4,Ravenbrook,2013,ISNE,PV,c-si,fixed-tilt,180,5,,5,6,landfill,non-agrivoltaic,0.913922,26619904,1315.2,75.1
+404011,multi,64110,MA,Middlesex,42.403989,-71.540294,47698,20220402,4,Hudson,2017,ISNE,PV,c-si,fixed-tilt,180,5,,5,5.8,landfill,non-agrivoltaic,1.097402,190978324,1315.2,75.1
+404013,multi,64112,MA,Bristol,41.841208,-71.015728,47031,20220904,4,Berkley,2017,ISNE,PV,c-si,fixed-tilt,180,15,,3,3.6,landfill,non-agrivoltaic,0.142904,27281600,1315.2,75.1
+404016,multi,64115,MA,Plymouth,41.914405,-70.801404,13904,20220116,4,Carver,2017,ISNE,PV,c-si,fixed-tilt,180,5,,1.5,1.8,greenfield,non-agrivoltaic,1.263886,26619904,1315.2,75.1
+404028,multi,64128,MA,Hampshire,42.248287,-72.275556,48982,20221018,4,"Ware Palmer Road Solar, LLC (CSG)",2021,ISNE,PV,,fixed-tilt,180,,batteries,3,4.3,greenfield,non-agrivoltaic,0.381073,7702689,1315.2,75.1
+404029,multi,64129,MA,Worcester,42.196788,-72.024885,78901,20220311,4,"East Brookfield Adams Road Solar, LLC (CSG)",2021,ISNE,PV,c-si,fixed-tilt,180,,batteries,5,7,greenfield,non-agrivoltaic,0.400833,46308136,1315.2,75.1
+404030,multi,64137,MA,Bristol,42.016926,-71.205692,24738,20220923,4,Kenmare-Mansfield Branch Street,2017,ISNE,PV,c-si,fixed-tilt,180,20,,1.5,2.1,PCSC,non-agrivoltaic,0.31971,27281600,1315.2,75.1
+404031,multi,64140,MA,Middlesex,42.637612,-71.403402,16522,20220723,4,"BWC Stony Brook, LLC Hybrid",2021,ISNE,PV,,fixed-tilt,180,,batteries,1.6,1.7,greenfield,non-agrivoltaic,0.701072,190978324,1315.2,75.1
+404033,multi,64147,MA,Worcester,42.518709,-71.7082,68375,20220520,4,"ZPD-PT Solar Project 2017-038 Hybrid, LLC",2021,ISNE,PV,,fixed-tilt,180,,batteries,5,7.3,greenfield,non-agrivoltaic,0.783149,46308136,1315.2,75.1
+404040,multi,64162,MA,Middlesex,42.35614,-71.245102,29591,20221006,4,Newton Rumford Landfill,2017,ISNE,PV,c-si,fixed-tilt,180,20,batteries,1.7,2.2,landfill,non-agrivoltaic,0.096333,190978324,1315.2,75.1
+404042,single,64170,MA,Worcester,42.096988,-71.506824,16502,20220402,4,"BWC Muddy Brook, LLC Hybrid",2021,ISNE,PV,,fixed-tilt,180,,batteries,1,1.7,greenfield,non-agrivoltaic,0.703754,46308136,1315.2,75.1
+402881,multi,62197,MA,Plymouth,42.058637,-70.983061,50856,20221012,4,East Bridgewater Solar,2017,ISNE,PV,c-si,fixed-tilt,180,20,,2.3,2.8,greenfield,non-agrivoltaic,-0.312352,26619904,1315.2,75.1
+403300,multi,62970,MA,Worcester,42.134789,-71.628654,101757,20220221,4,Syncarpha Puddon II Hybrid (CSG),2021,ISNE,PV,c-si,fixed-tilt,180,,batteries,5,7.5,greenfield,non-agrivoltaic,0.082733,46308136,1315.2,75.1
+404049,multi,64182,MA,Worcester,42.247948,-72.049444,82948,20220311,4,"BWC Lake Lashaway, LLC Hybrid",2021,ISNE,PV,,fixed-tilt,180,,batteries,4.2,8.3,greenfield,non-agrivoltaic,0.641146,46308136,1315.2,75.1
+404050,single,64184,MA,Worcester,42.278246,-72.007143,19851,20220311,4,"ZPD-PT Solar Project 2017-044, LLC (CSG)",2021,ISNE,PV,,fixed-tilt,180,,,1,1.6,greenfield,non-agrivoltaic,0.228832,46308136,1315.2,75.1
+404052,single,64187,MA,Hampden,42.105043,-72.465808,19251,20220901,4,"ZPD-PT Solar Project 2017-021, LLC Hybrid (CSG)",2021,ISNE,PV,,fixed-tilt,180,,batteries,1,1.7,greenfield,non-agrivoltaic,0.39209,23213480,1315.2,75.1
+404164,single,64395,MA,Worcester,42.227823,-72.207008,59684,20221018,4,"ZPD-PT Solar Project 2017-006, LLC Hybrid",2021,ISNE,PV,,fixed-tilt,180,,batteries,4,6,greenfield,non-agrivoltaic,0.651055,46308136,1315.2,75.1
+404182,multi,64417,MA,Hampden,42.103643,-72.3824,42110,20220901,4,Wilbraham,2020,ISNE,PV,c-si,fixed-tilt,180,20,,4,5,greenfield,non-agrivoltaic,1.036769,23213480,1315.2,75.1
+404189,single,64432,MA,Hampden,42.174612,-72.311077,90350,20220131,4,Breckenridge Solar,2020,ISNE,PV,c-si,fixed-tilt,180,25,batteries,5,5.4,greenfield,non-agrivoltaic,-0.212554,23213480,1315.2,75.1
+404190,multi,64434,MA,Plymouth,41.738473,-70.828935,38923,20220904,4,Rounseville Solar,2020,ISNE,PV,c-si,fixed-tilt,180,20,,2.7,3.3,greenfield,non-agrivoltaic,0.317422,26619904,1315.2,75.1
+404191,single,64435,MA,Hampshire,42.268234,-72.292031,22243,20221018,4,Town of Ware-Canadian Tree,2021,ISNE,PV,,fixed-tilt,180,,,1.4,1.8,greenfield,non-agrivoltaic,0.235662,7702689,1315.2,75.1
+404192,single,64436,MA,Norfolk,42.024617,-71.358786,66564,20220923,4,Wilmarth Solar,2020,ISNE,PV,c-si,fixed-tilt,180,20,batteries,5,6.4,greenfield,non-agrivoltaic,0.558234,57045702,1315.2,75.1
+404262,multi,64572,MA,Worcester,42.053378,-71.975011,57677,20220311,4,Dudley,2018,ISNE,PV,c-si,single-axis,180,0,,3,4,greenfield,non-agrivoltaic,-0.00951,46308136,1315.2,75.1
+404077,single,64231,MA,Hampshire,42.358441,-72.544194,20862,20220703,4,Hadley 3 Solar (North),2019,ISNE,PV,c-si,fixed-tilt,163,25,,3.9,4.6,greenfield,"grazing,es",3.192657,7702689,1315.2,75.1
+404078,multi,64232,MA,Hampshire,42.356346,-72.543044,31257,20220703,4,Hadley 3 Solar (South),2019,ISNE,PV,c-si,fixed-tilt,163,25,,2,2.6,greenfield,"grazing,es",0.283481,7702689,1315.2,75.1
+404263,single,64573,MA,Worcester,42.10344,-71.815031,27028,20220131,4,Joe Jenny,2018,ISNE,PV,c-si,single-axis,180,0,,1,2,greenfield,non-agrivoltaic,0.088903,46308136,1315.2,75.1
+404264,single,64574,MA,Bristol,41.689191,-71.090051,34300,20220630,4,Westport Community Solar Garden,2017,ISNE,PV,c-si,single-axis,180,0,,2,2.7,greenfield,non-agrivoltaic,0.188899,27281600,1315.2,75.1
+404275,multi,64587,MA,Norfolk,42.22722,-71.248708,18046,20221006,4,Dover,2017,ISNE,PV,c-si,single-axis,180,0,,1,1.4,landfill,non-agrivoltaic,0.164811,57045702,1315.2,75.1
+404276,multi,64588,MA,Bristol,41.684332,-71.106868,67906,20220630,4,Adirondack A+B Community Solar Garden,2018,ISNE,PV,c-si,single-axis,180,0,,5,7,greenfield,non-agrivoltaic,0.705156,27281600,1315.2,75.1
+404291,single,64617,MA,Norfolk,42.081563,-71.492105,61108,20220402,4,Kearsarge William Way,2021,ISNE,PV,,fixed-tilt,180,,batteries,4.4,6.3,greenfield,non-agrivoltaic,0.705413,57045702,1315.2,75.1
+404292,single,64618,MA,Essex,42.753133,-71.046988,33460,20220529,4,Kearsarge Haverhill,2021,ISNE,PV,,fixed-tilt,180,,batteries,2.8,3.6,superfund,non-agrivoltaic,0.80068,47094918,1315.2,75.1
+404295,multi,64627,MA,Middlesex,42.675915,-71.451691,99030,20211214,4,Blodgett Solar (CSG),2021,ISNE,PV,c-si,fixed-tilt,180,,batteries,5,10,greenfield,non-agrivoltaic,0.660585,190978324,1315.2,75.1
+404319,single,64696,MA,Middlesex,42.660763,-71.514978,115100,20220302,4,"Dunstable Solar 1, LLC",2021,ISNE,PV,,fixed-tilt,180,,batteries,4.5,10.4,greenfield,non-agrivoltaic,0.435513,190978324,1315.2,75.1
+404323,multi,64705,MA,Bristol,41.661761,-70.876842,73563,20220904,4,Fairhaven MA 2,2021,ISNE,PV,,fixed-tilt,180,,,2.9,4.2,greenfield,non-agrivoltaic,-0.269193,27281600,1315.2,75.1
+404395,multi,64970,MA,Plymouth,41.829,-70.726077,119736,20220116,4,59 Federal Rd,2021,ISNE,PV,,fixed-tilt,180,,batteries,5,11.6,greenfield,non-agrivoltaic,0.573725,26619904,1315.2,75.1
+404411,single,65056,MA,Plymouth,41.799655,-70.702943,86080,20220722,4,160 Tihonet Rd Hybrid,2021,ISNE,PV,,fixed-tilt,180,,batteries,5,7.4,greenfield,non-agrivoltaic,0.342514,26619904,1315.2,75.1
+404421,single,65114,MA,Plymouth,41.848587,-70.728418,43173,20220722,4,196 Tremont St,2021,ISNE,PV,,fixed-tilt,180,,batteries,1.5,3.8,greenfield,non-agrivoltaic,0.385961,26619904,1315.2,75.1
+404429,multi,65174,MA,Plymouth,41.788393,-70.744431,33807,20220722,4,"Cranberry Highway Solar, LLC",2021,ISNE,PV,,fixed-tilt,180,,batteries,2.2,2.9,greenfield,es,0.338555,26619904,1315.2,75.1
+400873,multi,59081,MA,Barnstable,41.660921,-70.395858,55383,20220413,4,Barnstable Landfill,2014,ISNE,PV,c-si,fixed-tilt,180,25,,4,4.5,landfill,es,0.242647,13771725,1315.2,75.1
+403299,multi,62969,MA,Worcester,42.139294,-71.633375,106807,20220221,4,Syncarpha Puddon I Hybrid (CSG),2021,ISNE,PV,c-si,fixed-tilt,180,,batteries,5,7.5,greenfield,non-agrivoltaic,0.008901,46308136,1315.2,75.1
+403305,multi,62977,MA,Worcester,42.112076,-71.647895,48984,20220221,4,Syncarpha Northbridge I Hybrid(CSG),2021,ISNE,PV,,fixed-tilt,180,,batteries,5,7.5,greenfield,non-agrivoltaic,1.765061,46308136,1315.2,75.1
+403306,single,62978,MA,Worcester,42.111211,-71.645755,31818,20220221,4,Syncarpha Northbridge II Hybrid (CSG),2021,ISNE,PV,c-si,fixed-tilt,180,,batteries,5,6.9,greenfield,non-agrivoltaic,3.115687,46308136,1315.2,75.1
+403416,multi,63131,MA,Worcester,42.596608,-72.034597,155266,20220402,4,"West Street Solar 1, LLC",2019,ISNE,PV,c-si,fixed-tilt,185,25,,5,7.3,greenfield,"grazing,es",-0.48271,46308136,1315.2,75.1
+404410,multi,65055,MA,Plymouth,41.791667,-70.724698,72971,20220722,4,77 Farm to Market Rd Hybrid,2021,ISNE,PV,,fixed-tilt,180,,batteries,5,7,greenfield,non-agrivoltaic,0.553556,26619904,1315.2,75.1
+400448,single,58282,MA,Worcester,42.223545,-71.874034,20547,20220918,4,"Leicester One MA Solar, LLC",2015,ISNE,PV,c-si,fixed-tilt,180,10,,4.8,6,greenfield,non-agrivoltaic,4.707942,46308136,1315.2,75.1
+402101,single,61016,MA,Worcester,42.225487,-71.874046,38381,20220918,4,Stafford St Solar 1 (CSG),2017,ISNE,PV,c-si,fixed-tilt,180,25,,2,6.9,greenfield,non-agrivoltaic,2.329999,46308136,1315.2,75.1
+404382,single,64875,MA,Plymouth,41.804432,-70.7218,95876,20220722,4,276 Federal Rd,2021,ISNE,PV,,fixed-tilt,180,,batteries,5,7.6,greenfield,non-agrivoltaic,0.200614,26619904,1315.2,75.1
+402030,multi,60908,MA,Hampshire,42.293992,-72.713825,47418,20220703,4,Northampton Landfill Solar PV,2017,ISNE,PV,c-si,fixed-tilt,180,20,,2.4,3.2,landfill,non-agrivoltaic,-0.049054,7702689,1315.2,75.1
+403672,single,63474,MA,Worcester,42.079055,-72.003134,42354,20220311,1,Annese Solar Project Hybrid (CSG),2020,ISNE,PV,c-si,fixed-tilt,193,26,batteries,4.3,7,greenfield,non-agrivoltaic,2.022714,46308136,1315.2,75.1
+403671,multi,63473,MA,Worcester,42.075607,-71.997136,162760,20220311,1,West A&B Solar Project Hybrid (CSG),2020,ISNE,PV,c-si,fixed-tilt,194,26,batteries,2.5,4.1,greenfield,non-agrivoltaic,-0.945117,46308136,1315.2,75.1
+404412,single,65057,MA,Plymouth,41.800149,-70.725955,40266,20220722,4,299 Farm to Market Rd Hybrid,2021,ISNE,PV,,fixed-tilt,180,,batteries,3,4.1,greenfield,non-agrivoltaic,0.678456,26619904,1315.2,75.1
+403360,multi,63047,MA,Franklin,42.603243,-72.342812,57642,20220901,4,"W. Orange Rd Solar, LLC",2021,ISNE,PV,c-si,fixed-tilt,180,,,5,6.5,greenfield,non-agrivoltaic,0.910263,2835214,1315.2,75.1
+403564,single,63338,MA,Hampshire,42.228426,-72.536703,42017,20220703,4,"Granby Solar, LLC (CSG)",2021,ISNE,PV,,fixed-tilt,180,,batteries,3,4.8,greenfield,non-agrivoltaic,0.941537,7702689,1315.2,75.1
+403669,multi,63470,MA,Worcester,42.164667,-72.001411,124273,20220311,4,McDougle-Mitchell Solar Project Hybrid (CSG),2020,ISNE,PV,c-si,fixed-tilt,191,26,batteries,4.5,6.3,greenfield,non-agrivoltaic,-0.40477,46308136,1315.2,75.1
+403950,multi,64014,MA,Worcester,42.551307,-71.950255,170354,20220402,4,28 Livermore Hill Road Solar,2020,ISNE,PV,c-si,fixed-tilt,180,20,,5,6.4,greenfield,non-agrivoltaic,-0.682864,46308136,1315.2,75.1
+404051,single,64185,MA,Worcester,42.075165,-72.011197,37648,20220311,4,"ZPD-PT Solar Project 2017-023, LLC Hybrid (CSG)",2021,ISNE,PV,,fixed-tilt,180,,batteries,2.8,4.3,greenfield,non-agrivoltaic,0.940995,46308136,1315.2,75.1
+404193,multi,64437,MA,Worcester,42.080323,-72.0084,55507,20220311,4,Dresser Hill (CSG),2021,ISNE,PV,,single-axis,180,,,3.7,4.7,greenfield,non-agrivoltaic,0.315127,46308136,1315.2,75.1
+404265,multi,64575,MA,Worcester,42.099359,-71.497994,43504,20220402,4,Mendon,2017,ISNE,PV,c-si,single-axis,180,0,,2.6,3.2,greenfield,non-agrivoltaic,0.079597,46308136,1315.2,75.1
+404277,single,64589,MA,Bristol,41.694012,-71.0873,31554,20220630,4,Westport B Community Solar Garden,2018,ISNE,PV,c-si,single-axis,180,0,,4.5,6,greenfield,non-agrivoltaic,2.549754,27281600,1315.2,75.1
+404293,multi,64620,MA,Franklin,42.58564,-72.55762,48006,20220703,4,Kearsarge Montague BD(CSG),2021,ISNE,PV,,fixed-tilt,180,,batteries,2.5,3,greenfield,non-agrivoltaic,-0.154832,2835214,1315.2,75.1
+404383,single,64876,MA,Plymouth,41.806958,-70.732527,141643,20221027,4,0 Hammond St (CSG),2021,ISNE,PV,c-si,single-axis,180,,batteries,5,12.2,greenfield,non-agrivoltaic,0.346018,26619904,1315.2,75.1
+401083,multi,59468,MA,Worcester,42.468751,-72.044684,46341,20210815,4,"KS Solar Six, LLC",2013,ISNE,PV,c-si,fixed-tilt,180,20,,2,2.5,greenfield,non-agrivoltaic,-0.33584,46308136,1315.2,75.1
+401900,multi,60730,MA,Plymouth,41.962178,-70.977806,57113,20210921,4,Bridgewater Solar (CSG),2015,ISNE,PV,c-si,fixed-tilt,180,25,,3,4,greenfield,non-agrivoltaic,0.005013,26619904,1315.2,75.1
+403230,multi,62842,MA,Middlesex,42.553984,-71.507852,23691,20220122,4,Nextsun Energy Littleton,2013,ISNE,PV,c-si,fixed-tilt,180,25,,4,5,greenfield,non-agrivoltaic,2.992655,190978324,1315.2,75.1
+402267,multi,61315,MA,Worcester,42.359824,-71.963362,98817,20220311,4,Golden Hills Solar,2017,ISNE,PV,c-si,fixed-tilt,177,27,,4.7,6,greenfield,non-agrivoltaic,-0.192405,46308136,1315.2,75.1
+402258,multi,61299,MA,Hampshire,42.393743,-72.61911,84780,20220703,4,Hatfield Renewables Community Solar,2017,ISNE,PV,c-si,fixed-tilt,180,30,,1.9,2.5,greenfield,"grazing,es",-0.854067,7702689,1315.2,75.1
+402505,multi,61634,MA,Bristol,41.802144,-71.147656,100331,20220629,4,"DG Dighton, LLC (CSG)",2017,ISNE,PV,c-si,single-axis,180,0,,3.1,4.5,greenfield,non-agrivoltaic,-0.528569,27281600,1315.2,75.1
+404490,multi,60738,MA,Bristol,41.757907,-71.096828,69059,20221202,4,Fall River Solar (CSG),2013,ISNE,PV,c-si,fixed-tilt,43,1,,2,2.5,greenfield,non-agrivoltaic,-0.711846,27281600,1315.2,75.1
+402798,multi,62064,MA,Berkshire,42.437512,-73.11522,51884,20210313,4,Hinsdale Solar PV,2019,ISNE,PV,c-si,fixed-tilt,180,10,,2,2.7,greenfield,non-agrivoltaic,-0.376297,6927750,1315.2,75.1
+401215,multi,59636,MA,Worcester,42.140475,-71.990125,121566,20220311,4,Charlton Solar I (CSG),2014,ISNE,PV,c-si,fixed-tilt,188,21,,3.9,4.4,greenfield,non-agrivoltaic,-0.711985,46308136,1315.2,75.1
+404879,multi,65669,MA,Bristol,41.673277,-70.991405,21470,20231216,4,Faunce Corner Community Solar,2022,ISNE,PV,c-si,fixed-tilt,180,,batteries,1,2.2,greenfield,non-agrivoltaic,0.6921,27281600,1315.2,75.1
+404824,multi,65362,MA,Worcester,42.071792,-71.621756,66009,20231124,4,MA CS Uxbridge Community Solar,2023,ISNE,PV,,fixed-tilt,180,,,4,4,greenfield,non-agrivoltaic,-0.194952,46308136,1315.2,75.1
+404920,single,65950,MA,Essex,42.566985,-70.880273,14410,20230420,4,Kearsarge 100 Sohier Rd,2022,ISNE,PV,,fixed-tilt,180,,batteries,3.8,3.8,landfill,non-agrivoltaic,4.108212,47094918,1315.2,75.1
+404964,multi,66320,MA,Worcester,42.206755,-71.737002,35143,20231001,4,3Colton,2023,ISNE,PV,,fixed-tilt,180,,,3.4,3.4,greenfield,non-agrivoltaic,0.570952,46308136,1315.2,75.1
+400443,single,58275,MA,Worcester,42.22078,-71.883952,34952,20210211,4,Mass Midstate Solar 3,2014,ISNE,PV,c-si,fixed-tilt,180,25,,4,5.2,greenfield,non-agrivoltaic,1.673209,46308136,1315.2,75.1
+400445,multi,58279,MA,Worcester,42.220344,-71.88231,33140,20211011,4,Mass Midstate Solar 1,2014,ISNE,PV,c-si,fixed-tilt,180,25,,5,6,greenfield,non-agrivoltaic,2.357028,46308136,1315.2,75.1
+404590,multi,62968,MA,Middlesex,42.592284,-71.177531,41943,20230518,4,Syncarpha Tewksbury Hybrid CSG,2021,ISNE,PV,c-si,fixed-tilt,180,,batteries,2.8,3.6,superfund,non-agrivoltaic,0.339631,190978324,1315.2,75.1
+404591,single,62971,MA,Worcester,42.593112,-71.868465,73982,20230720,4,Syncarpha Westminster Hybrid CSG,2021,ISNE,PV,c-si,fixed-tilt,180,,batteries,4.7,5.5,greenfield,non-agrivoltaic,0.096235,46308136,1315.2,75.1
+404592,multi,62974,MA,Worcester,42.174344,-71.796015,107690,20231001,4,Syncarpha Millbury Hybrid (CSG),2019,ISNE,PV,c-si,fixed-tilt,180,,batteries,5,7.14,greenfield,non-agrivoltaic,-0.074122,46308136,1315.2,75.1
+404699,single,64532,MA,Bristol,41.970626,-71.167338,16922,20230820,4,Norton,2022,ISNE,PV,,fixed-tilt,180,,,1.4,1.4,greenfield,non-agrivoltaic,0.273994,27281600,1315.2,75.1
+404707,single,64619,MA,Norfolk,42.048569,-71.390801,16397,20231031,4,Kearsarge Upper Union,2021,ISNE,PV,,fixed-tilt,180,,batteries,1,1,greenfield,non-agrivoltaic,-0.186729,57045702,1315.2,75.1
+404732,multi,64726,MA,Hampshire,42.384214,-72.707342,34582,20231130,4,West Haydenville PJ Community Solar,2022,ISNE,PV,c-si,fixed-tilt,180,,batteries,5,7.97,greenfield,non-agrivoltaic,3.403984,7702689,1315.2,75.1
+404733,multi,64727,MA,Bristol,41.592193,-71.096571,70377,20231130,4,Brookwood Drive Community Solar,2022,ISNE,PV,thin-film,fixed-tilt,180,,batteries,5,7.21,greenfield,non-agrivoltaic,0.691703,27281600,1315.2,75.1
+404736,single,64759,MA,Plymouth,41.796874,-70.828604,90960,20230901,4,Old Middleboro Road Solar,2021,ISNE,PV,,fixed-tilt,180,,batteries,5,5,greenfield,non-agrivoltaic,-0.314217,26619904,1315.2,75.1
+404767,single,65015,MA,Worcester,42.011959,-71.759253,71251,20230731,4,"ASD Wallum MA Solar, LLC(CSG)",2021,ISNE,PV,c-si,fixed-tilt,180,,batteries,5,8.73,greenfield,non-agrivoltaic,1.117032,46308136,1315.2,75.1
+402012,single,60878,MA,Worcester,42.102872,-71.697003,15354,20220221,4,Sutton Solar (CSG),2016,ISNE,PV,c-si,single-axis,180,0,,1.9,2.5,greenfield,non-agrivoltaic,1.970915,46308136,1315.2,75.1
+404641,single,64042,MA,Hampshire,42.421232,-72.533409,48457,20240422,4,Montague Road Solar,2021,ISNE,PV,c-si,fixed-tilt,180,20,,3.6,4,greenfield,non-agrivoltaic,0.270072,7702689,1315.2,75.1
