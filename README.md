@@ -1,6 +1,6 @@
 # GNN prediction model for PV siting
 
--Define of project
+# Define of project
 The development of renewable energy sources has become a must for the modern era, when traditional combustion energy sources are becoming scarce and expensive and fission energy sources are still dangerous.
  Among the renewable energy sources, Photovoltaic power sources stand out with lower environmental impact and lower maintenance difficulty. However, there are still problems to be solved if photovoltaic power
  plants should become the main source of power. Photovoltaic power relies on light to generate electricity, a widely used and necessary resource to multiple entities. Sunlight is also not constant, as it would
@@ -10,7 +10,25 @@ The development of renewable energy sources has become a must for the modern era
  antibodies to antigen, and maximize the overall contribution of photovoltaic power plants to the entire environment.
 
 
-
+# Instructions to Set Up and Run the GCN Model
+Step 1: Clone the Repository
+Step 2: Set Up the Virtual Environment
+  -Create a new Conda environment: "conda create --name GNN_network_proj python=3.9 -y"
   
+  -Activate the environment:"conda activate GNN_network_proj"
+  
+  -Install dependencies:
+    "pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu"
 
+    "pip install torch-scatter torch-sparse torch-cluster torch-spline-conv torch-geometric pandas scikit-learn matplotlib"
+
+   -Visualize Results:
+    "pip install basemap"
+
+
+Step 3: Prepare the Dataset
+    Ensure the dataset (merged_data.csv) is located in the same directory as the GCN script (GCN.py). If not, provide the correct path in the code.
+
+Step 4:  Run the Model
+    python GCN.py
 
