@@ -12,6 +12,7 @@ The development of renewable energy sources has become a must for the modern era
 
 # Instructions to Set Up and Run the GCN Model
 Step 1: Clone the Repository
+
 Step 2: Set Up the Virtual Environment
   -Create a new Conda environment: "conda create --name GNN_network_proj python=3.9 -y"
   
@@ -19,7 +20,6 @@ Step 2: Set Up the Virtual Environment
   
   -Install dependencies:
     "pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu"
-
     "pip install torch-scatter torch-sparse torch-cluster torch-spline-conv torch-geometric pandas scikit-learn matplotlib"
 
    -Visualize Results:
