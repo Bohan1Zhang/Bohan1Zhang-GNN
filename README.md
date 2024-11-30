@@ -1,4 +1,5 @@
-# Bohan1Zhang-GNN
+# GNN prediction model for PV siting
+
 -Define of project
 The development of renewable energy sources has become a must for the modern era, when traditional combustion energy sources are becoming scarce and expensive and fission energy sources are still dangerous.
  Among the renewable energy sources, Photovoltaic power sources stand out with lower environmental impact and lower maintenance difficulty. However, there are still problems to be solved if photovoltaic power
@@ -8,17 +9,8 @@ The development of renewable energy sources has become a must for the modern era
  the landscape, solar resource abundance, local population density and power usage, etc. We hope that our product Photo would target the pain point of not knowing where to plan the photovoltaic power plants like
  antibodies to antigen, and maximize the overall contribution of photovoltaic power plants to the entire environment.
 
-To learn more about the project, contact *********.
 
--Define of target users
- Our target users are mainly government, power facilities, and technology companies.
 
--Define of user stories
-As the Office of Energy Efficiency and Renewable Energy, we would like to know if power plants would prefer to build traditional power plants or photovoltaic power plants in a certain area if certain programs were locally created, altered, or halted.
-As the Office of Energy Efficiency and Renewable Energy, we would like to expand on more scenarios where the photovoltaic power plants could be planted for further research and development experiences.
-As the Environmental Protection Agency, we would like to know how we organize our projects to minimize the climate and environmental impact of these power plants.
-As a local power facility, we would like to give suggestions on where to build the photovoltaic power plants and visualize the detailed cost and profit of the plant.
-As a local power facility, we would like to compare on if we should build thermal power plants or photovoltaic power plants based on the local conditions.
-As a technology company, we would like to advertise our new photovoltaic plates to let the facilities know and utilize their specialties well.
+  
 
 
